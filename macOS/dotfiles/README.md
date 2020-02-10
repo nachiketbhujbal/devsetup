@@ -10,12 +10,12 @@ Using the .bashrc and .bash_profile files on a new computer is a matter of copyi
 
 ```bash
 # make sure you're in the correct directory for copying
-$pwd
+pwd
 /Users/nachiketbhujbal/sandbox/devsetup/macOS/dotfiles
-$cp .bash_profile ~/
-$cp .bashrc ~/
-$cd ~
-$source .bash_profile
+cp .bash_profile ~/
+cp .bashrc ~/
+cd ~
+source .bash_profile
 ```
 
 `.bash_profile` is simply searching for the `.bashrc` file in the users home directory and sourcing it
