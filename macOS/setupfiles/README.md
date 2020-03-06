@@ -9,4 +9,15 @@ python get-pip.py
 
 This will install the latest version of pip into the correct folder for you.
 
+##### Installing python packages
 
+```bash
+pip install numpy
+pip install pandas
+pip install scipy
+pip install matplotlib
+# Other useful machine learning / deep learning libraries
+pip install torch torchvision
+pip install tensorflow
+# Web development frameworks
+pip install Flask
