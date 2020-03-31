@@ -1,15 +1,12 @@
 # bashrc file
-
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 export PS1="\$ "
-export PATH="$HOME/bin:$PATH";
 
 alias ll="ls -l"
 alias la="ls -la"
-alias python="/usr/local/bin/python3"
-alias python2="/usr/bin/python"
-alias pip="pip3"
 
 export PYTHONPATH="$HOME/sandbox:$HOME/sandbox/playground/py:$PYTHONPATH";
+export BOX="nach@45.33.81.99"
 
 # default shell variables
 # SHELL=/usr/local/bin/bash
