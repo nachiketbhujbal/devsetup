@@ -15,8 +15,7 @@ devenv () {
   }
 
 fastgit () {
-  git commit -a -m "automated git push for $PWD"
-  git push
+  git commit -a -m "automated git push for $PWD" && git push
   }
 
 # default shell variables
