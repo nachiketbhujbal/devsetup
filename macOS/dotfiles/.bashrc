@@ -8,6 +8,17 @@ alias la="ls -la"
 export PYTHONPATH="$HOME/sandbox:$HOME/sandbox/playground/py:$PYTHONPATH";
 export BOX="nach@45.33.81.99"
 
+devenv () {
+  cd ~/sandbox/environments
+  source envcore/bin/activate
+  cd ~/sandbox
+  }
+
+fastgit () {
+  git commit -a -m "automated git push for $PWD"
+  git push
+  }
+
 # default shell variables
 # SHELL=/usr/local/bin/bash
 # XPC_FLAGS=0x0
