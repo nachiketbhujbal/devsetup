@@ -14,7 +14,7 @@ devenv () {
   cd ~/sandbox
   }
 
-pushgit () {
+push () {
   git commit -a -m "automated git push for $PWD" && git push
   }
 
