@@ -1,22 +1,9 @@
 # bashrc file
-export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export PATH="$HOME/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 export PS1="\$ "
-
-alias ll="ls -l"
-alias la="ls -la"
 
 export PYTHONPATH="$HOME/sandbox:$HOME/sandbox/playground/py:$PYTHONPATH";
 export BOX="nach@45.33.81.99"
-
-devenv () {
-  cd ~/sandbox/environments
-  source envcore/bin/activate
-  cd ~/sandbox
-  }
-
-push () {
-  git commit -a -m "automated git push for $PWD" && git push
-  }
 
 # default shell variables
 # SHELL=/usr/local/bin/bash
