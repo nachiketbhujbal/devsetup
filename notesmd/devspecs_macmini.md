@@ -31,9 +31,9 @@ Logic Pro X       | + $0       | + $0        | + $199
 **SOFTWARE COST** | + $0       | + $0        | + $498
 ----------------- | ---------- | ----------- | -----------
 Warranty          | Apple 1-Yr | AppleCare+  | AppleCare+
-**WARRANTY COST** | + $0       | + $0        | + $99
+**WARRANTY COST** | + $0       | + $99       | + $99
 ----------------- | ---------- | ----------- | -----------
-**TOTAL COST**    |**$1099.00**|**$1399.00** |**$3597.00**
+**TOTAL COST**    |**$1099.00**|**$1498.00** |**$3597.00**
 
 ### Upgradeable RAM (purchased separately later)
 
