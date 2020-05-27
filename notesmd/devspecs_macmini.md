@@ -5,7 +5,7 @@
 
 ##### CPU
 
-> 6 - core 8th generation Intel Core Processor
+> 6-core 8th generation Intel Core Processor
 
 Specification | Base Model | Recommended | Maxed Out
 ------------- | ---------- | ----------- | ---------
