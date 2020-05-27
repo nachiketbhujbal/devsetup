@@ -54,6 +54,6 @@ Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 
 ## External Storage
 > External storage can be broken down into mainly two categories, Hard-Disk Drives vs Solid State Drives.
-    > SSDs are great for fast read/write speeds.
-    > HDDs are good for longer-term storage, backups, and redundancy (RAID)
+> SSDs are great for fast read/write speeds.
+> HDDs are good for longer-term storage, backups, and redundancy (RAID)
 
