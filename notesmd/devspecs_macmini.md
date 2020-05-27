@@ -4,35 +4,39 @@
 
 ### Apple Mac mini (point of sale)
 
-Specification   | Base Model | Recommended | Maxed Out
---------------- | ---------- | ----------- | ---------
-Clock Freq      | 3.0 GHz    | 3.2 GHz     | 3.2 GHz
-Cores           | 6-core     | 6-core      | 6-core
-Generation      | 8th        | 8th         | 8th
-Gen Nickname    | Coffee-Lake| Coffee-Lake | Coffee-Lake
-Processor       | Intel i5   | Intel i7    | Intel i7
-Turbo Boost     | 4.1 GHz    | 4.6 GHz     | 4.6 GHz
-**CPU COST**    | + $0       | + $200      | + $200
---------------- | ---------- | ----------  | --------- 
-Internal SSD    | 512 GB     | 512 GB      | 2TB
-**SSD COST**    | + $0       | + $0        | + $600
---------------- | ---------- | ----------  | ---------
-Internal RAM    | 8 GB       | 8 GB        | 64 GB
-**RAM COST**    | + $0       | + $0        | + $1000
---------------- | ---------- | ----------  | ---------
-Graphics Card   | Intel UHD  | Intel UHD   | Intel UHD
-**GPU COST**    | + $0       | + $0        | + $0
---------------- | ---------- | ----------  | ---------
-Ethernet Card   | Gigabit    | 10 Gigabit  | 10 Gigabit
-**ETH COST**    | + $0       | + $100      | + $100
---------------- | ---------- | ----------  | ---------
-Final Cut Pro X | + $0       | + $0        | + $
-Logic Pro X     | + $0       | + $0        | + $
---------------- | ---------- | ----------  | ---------
-Warranty        | Apple 1-Yr | AppleCare+  | AppleCare+
-**WAR+ COST**   | + $0       | + $99       | + $99
---------------- | ---------- | ----------  | ---------
-**TOTAL COST**  |**$1099.00**|**$1498.00** |**$3597.00**
+Specification     | Base Model | Recommended | Maxed Out
+---------------   | ---------- | ----------- | ---------
+Clock Freq        | 3.0 GHz    | 3.2 GHz     | 3.2 GHz
+Cores             | 6-core     | 6-core      | 6-core
+Generation        | 8th        | 8th         | 8th
+Gen Nickname      | Coffee-Lake| Coffee-Lake | Coffee-Lake
+Processor         | Intel i5   | Intel i7    | Intel i7
+Turbo Boost       | 4.1 GHz    | 4.6 GHz     | 4.6 GHz
+**CPU COST**      | + $0       | + $200      | + $200
+---------------   | ---------- | ----------  | --------- 
+Internal SSD      | 512 GB     | 512 GB      | 2TB
+**SSD COST**      | + $0       | + $0        | + $600
+---------------   | ---------- | ----------  | ---------
+Internal RAM      | 8 GB       | 8 GB        | 64 GB
+**RAM COST**      | + $0       | + $0        | + $1000
+---------------   | ---------- | ----------  | ---------
+Graphics Card     | Intel UHD  | Intel UHD   | Intel UHD
+**GPU COST**      | + $0       | + $0        | + $0
+---------------   | ---------- | ----------  | ---------
+Ethernet Card     | Gigabit    | 10 Gigabit  | 10 Gigabit
+**ETH COST**      | + $0       | + $100      | + $100
+---------------   | ---------- | ----------  | ---------
+Final Cut Pro X   | + $0       | + $0        | + $299
+Logic Pro X       | + $0       | + $0        | + $199
+**SOFTWARE COST** | + $0       | + $0        | + $498
+---------------   | ---------- | ----------  | ---------
+Warranty          | Apple 1-Yr | AppleCare+  | AppleCare+
+**WARRANTY COST** | + $0       | + $99       | + $99
+---------------   | ---------- | ----------  | ---------
+**TOTAL COST**    |**$1099.00**|**$1498.00** |**$3597.00**
+
+### Upgradeable RAM (purchased separately)
+
 
 
 ## Display & Monitor Options
@@ -43,3 +47,4 @@ Warranty        | Apple 1-Yr | AppleCare+  | AppleCare+
 
 - [Black Magic eGPU](https://www.apple.com/shop/product/HM8Y2VC/A/blackmagic-egpu)
 - [PowerColor Mini Pro](https://www.amazon.com/PowerColor-Mini-RX570-eGPU-Thunderbolt3/dp/B07Q4R7GZR)
+
