@@ -1,5 +1,7 @@
 # Development Configuration
 
+## Hardware Options
+
 ### Apple Mac mini (point of sale)
 
 Specification | Base Model | Recommended | Maxed Out
@@ -30,6 +32,6 @@ Warranty      | Apple 1-Yr | AppleCare+  | AppleCare+
 **TOTAL COST**|**$1099.00**|**$1498.00** |**$3597.00**
 
 
-### Display / Monitor
+## Display & Monitor Options
 
 [LG 27UK850-W 27” 4K UHD IPS HDR10 Monitor with USB-C Connectivity](https://www.amazon.com/gp/product/B078GVTD9N/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1)
