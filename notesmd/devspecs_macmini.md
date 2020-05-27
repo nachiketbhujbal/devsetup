@@ -1,7 +1,6 @@
-# Development Specs - Mac mini 2020
+# Development Configuration
 
-
-### Hardware (at point of sale)
+### Apple Mac mini (point of sale)
 
 Specification | Base Model | Recommended | Maxed Out
 ------------- | ---------- | ----------- | ---------
@@ -28,5 +27,5 @@ Ethernet Card | Gigabit    | 10 Gigabit  | 10 Gigabit
 Warranty      | Apple 1-Yr | AppleCare+  | AppleCare+
 **WAR+ COST** | + $0       | + $99       | + $99
 ------------- | ---------- | ----------  | ---------
-**TOTAL COST**| $1099.00   | $1498.00    | $3597.00
+**TOTAL COST**|**$1099.00**|**$1498.00** |**$3597.00**
 
