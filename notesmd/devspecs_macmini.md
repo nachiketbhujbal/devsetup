@@ -35,7 +35,7 @@ Warranty          | Apple 1-Yr | AppleCare+  | AppleCare+
 ----------------- | ---------- | ----------- | -----------
 **TOTAL COST**    |**$1099.00**|**$1399.00** |**$3597.00**
 
-### Upgradeable RAM (purchased separately)
+### Upgradeable RAM (purchased separately later)
 
 Company\Size | 1x8 GB | 1x16 GB | 2x16 GB | 1x32 GB | 2x32 GB
 ------------ | ------ | ------  | ------- | ------- | ------- 
