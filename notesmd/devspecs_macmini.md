@@ -15,7 +15,8 @@ Turbo Boost   | 4.1 GHz    | 4.6 GHz     | 4.6 GHz
 ------------- | ---------- | ----------  | --------- 
 Internal SSD  | 512 GB     | 512 GB      | 2TB
 **SSD COST**  | + $0       | + $0        | + $600
-------------- | ---------- | ----------  | --------- Internal RAM  | 8 GB       | 8GB         | 64 GB
+------------- | ---------- | ----------  | ---------
+Internal RAM  | 8 GB       | 8GB         | 64 GB
 **RAM COST**  | + $0       | + $0        | + $1000
 ------------- | ---------- | ----------  | ---------
 Graphics Card | Intel UHD  | Intel UHD   | Intel UHD
