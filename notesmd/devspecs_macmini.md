@@ -59,9 +59,9 @@ Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 * SSDs are great for fast read/write speeds.
 * HDDs are good for longer-term storage, backups, and redundancy (RAID)
 
-* USC Type-C SSD
-    - [Samsung T5 Portable SSD](https://www.amazon.com/Samsung-T5-Portable-SSD-MU-PA2T0B/dp/B073H4GPLQ/ref=sr_1_4?dchild=1&keywords=samsung+thunderbolt+3+ssd&qid=1590624310&s=electronics&sr=1-4)
+> USC Type-C SSD
+- [Samsung T5 Portable SSD](https://www.amazon.com/Samsung-T5-Portable-SSD-MU-PA2T0B/dp/B073H4GPLQ/ref=sr_1_4?dchild=1&keywords=samsung+thunderbolt+3+ssd&qid=1590624310&s=electronics&sr=1-4)
 
-* Thunderbolt 3 Type-C SSD:
-    - [Samsung X5 Portable SSD 2TB - Thunderbolt 3](https://www.amazon.com/dp/B07GBTY82P?ref=emc_p_m_9_b&th=1)
+> Thunderbolt 3 Type-C SSD:
+- [Samsung X5 Portable SSD 2TB - Thunderbolt 3](https://www.amazon.com/dp/B07GBTY82P?ref=emc_p_m_9_b&th=1)
 
