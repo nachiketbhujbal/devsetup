@@ -70,6 +70,8 @@ External storage can be broken down into mainly two categories:
 - [Fledgling Shell Thunder SSD Enclosure](https://www.amazon.com/Shell-Thunder-Enclosure-Only-Fledging/dp/B07QY9V2KM/ref=sr_1_1_sspa?dchild=1&keywords=thunderbolt+3+nvme+m.2+enclosure&qid=1590625546&s=electronics&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPRTlNTUY0UEpSMFImZW5jcnlwdGVkSWQ9QTAyMzYyNTcxOTJBRVpIUlVCTFdBJmVuY3J5cHRlZEFkSWQ9QTEwNDA4MDJCWkZCNkhaNTZMN1Amd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
     - [Fledgling enclosure with 1TB included](https://www.amazon.com/Shell-Thunder-Enclosure-Only-Fledging/dp/B07QZCXBT2/ref=sr_1_1_sspa?dchild=1&keywords=thunderbolt%2B3%2Bnvme%2Bm.2%2Benclosure&qid=1590625546&s=electronics&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPRTlNTUY0UEpSMFImZW5jcnlwdGVkSWQ9QTAyMzYyNTcxOTJBRVpIUlVCTFdBJmVuY3J5cHRlZEFkSWQ9QTEwNDA4MDJCWkZCNkhaNTZMN1Amd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)
 
+- [ORICO Mini Thunderbolt 3 NVMe SSD External Enclosure](https://www.amazon.com/ORICO-Thunderbolt-External-Enclosure-Supported/dp/B082KFB5TL/ref=sr_1_1_sspa?dchild=1&keywords=thunderbolt+3+nvme+m.2&qid=1590625771&s=electronics&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQ0xJRlIxQlFZUTAwJmVuY3J5cHRlZElkPUEwNDIzOTIxMzQyQ0tHR0VLUkdCOSZlbmNyeXB0ZWRBZElkPUExMDAyOTk1MUpaMVNBSVdHVkZWJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+
 > 7200 RPM HDD:
 
 
