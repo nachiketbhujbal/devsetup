@@ -54,15 +54,15 @@ External storage can be broken down into mainly two categories:
     - Hard-Disk Drives (HDD): Great for fast read/write speeds.
     - Solid-State Drives (SSD): Long-term storage, backups, & redundancy (RAID)
 
-> USC Type-C SSD
-- [Samsung T5 Portable SSD](https://www.amazon.com/Samsung-T5-Portable-SSD-MU-PA2T0B/dp/B073H4GPLQ/ref=sr_1_4?dchild=1&keywords=samsung+thunderbolt+3+ssd&qid=1590624310&s=electronics&sr=1-4)
-
-- [G-Technology 2TB G-DRIVE mobile SSD](https://www.amazon.com/G-Technology-0G06054-G-Drive-Portable-Storage/dp/B0765LJWFZ/ref=sr_1_2?dchild=1&keywords=G-Technology-0G06054-G-Drive-Portable-Storage&qid=1590624942&sr=8-2)
-
 > Thunderbolt 3 NVMe M.2 SSD & Enclosures
-- [Fledgling Shell Thunder SSD Enclosure](https://www.amazon.com/gp/product/B07QY9V2KM/ref=ox_sc_act_title_2?smid=A3MJNIGJ08V121&psc=1)
+- [Fledgling Shell Thunder SSD Enclosure](https://www.amazon.com/gp/product/B07QY9V2KM/ref=ox_sc_act_title_2?smid=A3MJNIGJ08V121&psc=1) - $ 140
 
-- [Sabrent 2TB Rocket NVMe PCIe M.2 2280 Internal SSD](https://www.amazon.com/dp/B07MTQTNVR/ref=twister_B085GG5QDR?_encoding=UTF8&th=1)
+- [Sabrent 2TB Rocket NVMe PCIe M.2 2280 Internal SSD](https://www.amazon.com/dp/B07MTQTNVR/ref=twister_B085GG5QDR?_encoding=UTF8&th=1) - $ 280
+
+> USC Type-C SSD
+- [Samsung T5 Portable SSD](https://www.amazon.com/Samsung-T5-Portable-SSD-MU-PA2T0B/dp/B073H4GPLQ/ref=sr_1_4?dchild=1&keywords=samsung+thunderbolt+3+ssd&qid=1590624310&s=electronics&sr=1-4) - $ 320
+
+- [G-Technology 2TB G-DRIVE mobile SSD](https://www.amazon.com/G-Technology-0G06054-G-Drive-Portable-Storage/dp/B0765LJWFZ/ref=sr_1_2?dchild=1&keywords=G-Technology-0G06054-G-Drive-Portable-Storage&qid=1590624942&sr=8-2) - $ 330
 
 ## Accessories
 
