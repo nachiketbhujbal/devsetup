@@ -66,13 +66,14 @@ External storage can be broken down into mainly two categories:
 
 ## Accessories
 
-- [Satechi Data Hub for Mac mini](https://satechi.net/products/type-c-aluminum-stand-hub-for-mac-mini)
-- [Logitech MX Master 3](https://www.logitech.com/en-us/product/mx-master-3)
-- [Logitech MX Keys](https://www.logitech.com/en-us/product/mx-keys-wireless-keyboard)
+- [Satechi Data Hub for Mac mini](https://satechi.net/products/type-c-aluminum-stand-hub-for-mac-mini) - $ 80
+- [Logitech MX Master 3](https://www.logitech.com/en-us/product/mx-master-3) - $ 100
+- [Logitech MX Keys](https://www.logitech.com/en-us/product/mx-keys-wireless-keyboard) - $ 100
+- [Wood Monitor Stand with Docking Station](https://en.j5create.com/collections/monitor-stands/products/jct425) - $ 140
 
 ## External GPU (eGPU)
 
-- [Black Magic eGPU](https://www.apple.com/shop/product/HM8Y2VC/A/blackmagic-egpu)
+- [Black Magic eGPU](https://www.apple.com/shop/product/HM8Y2VC/A/blackmagic-egpu) - $ 699
 - [PowerColor Mini Pro](https://www.amazon.com/PowerColor-Mini-RX570-eGPU-Thunderbolt3/dp/B07Q4R7GZR)
 
 
