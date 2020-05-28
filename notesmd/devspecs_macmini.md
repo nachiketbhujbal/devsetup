@@ -72,6 +72,9 @@ External storage can be broken down into mainly two categories:
 
 - [ORICO Mini Thunderbolt 3 NVMe SSD External Enclosure](https://www.amazon.com/ORICO-Thunderbolt-External-Enclosure-Supported/dp/B082KFB5TL/ref=sr_1_1_sspa?dchild=1&keywords=thunderbolt+3+nvme+m.2&qid=1590625771&s=electronics&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQ0xJRlIxQlFZUTAwJmVuY3J5cHRlZElkPUEwNDIzOTIxMzQyQ0tHR0VLUkdCOSZlbmNyeXB0ZWRBZElkPUExMDAyOTk1MUpaMVNBSVdHVkZWJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
+> NVMe M.2 SSD drives
+
+
 > 7200 RPM HDD:
 
 
