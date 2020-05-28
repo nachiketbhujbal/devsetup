@@ -49,7 +49,7 @@ Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 
 - Dell
     - 4K UHD (3840 x 2160) w/ USB-C
-        - [Dell 32" Ultrasharp LED Monitor - U3219Q (2019)](https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) - $ 900
+        - [Dell 32" Ultrasharp LED Monitor - U3219Q (2019)](https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) - $ 899
 		- [Dell 27" Ultrasharp LED Monitor - U2720Q (2020)](https://www.dell.com/en-us/work/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-avjv/monitors-monitor-accessories) - $580
 
 - Lenovo
