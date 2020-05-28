@@ -77,6 +77,10 @@ External storage can be broken down into mainly two categories:
 - [Samsung (MZ-V7E1T0BW) 970 EVO SSD 1TB - M.2 NVMe Interface Internal Solid State Drive](https://www.amazon.com/MZ-V7E500BW-Samsung-970-EVO/dp/B07BN217QG/ref=sr_1_3?crid=WILBZ1OMXUDY&dchild=1&keywords=nvme%2Bm.2%2Bssd&qid=1590625873&s=electronics&sprefix=nvme%2Bm.2%2B%2Celectronics%2C162&sr=1-3&th=1)
 
 - [Sabrent Rocket Q 1TB NVMe PCIe M.2 2280 Internal SSD High Performance Solid State Drive](https://www.amazon.com/Sabrent-Rocket-Internal-Performance-SB-RKTQ-1TB/dp/B07ZZYWTBP/ref=sr_1_5?crid=WILBZ1OMXUDY&dchild=1&keywords=nvme+m.2+ssd&qid=1590625938&s=electronics&sprefix=nvme+m.2+%2Celectronics%2C162&sr=1-5)
+    - [Sabrent Rocket Q 2TB](https://www.amazon.com/Sabrent-Rocket-Internal-Performance-SB-RKTQ-1TB/dp/B0829DZH2W/ref=sr_1_5?crid=WILBZ1OMXUDY&dchild=1&keywords=nvme%2Bm.2%2Bssd&qid=1590625938&s=electronics&sprefix=nvme%2Bm.2%2B%2Celectronics%2C162&sr=1-5&th=1)
+    - [Sabrent Rocket Q 4TB](https://www.amazon.com/Sabrent-Rocket-Internal-Performance-SB-RKTQ-1TB/dp/B087N7HLRV/ref=sr_1_5?crid=WILBZ1OMXUDY&dchild=1&keywords=nvme%2Bm.2%2Bssd&qid=1590625938&s=electronics&sprefix=nvme%2Bm.2%2B%2Celectronics%2C162&sr=1-5&th=1)
+
+-[Sabrent 2TB Rocket NVMe PCIe M.2 2280 Internal SSD High Performance Solid State Drive](https://www.amazon.com/dp/B07MTQTNVR/ref=twister_B085GG5QDR?_encoding=UTF8&th=1)
 
 > 7200 RPM HDD:
 
