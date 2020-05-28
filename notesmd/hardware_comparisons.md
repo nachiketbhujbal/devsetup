@@ -57,6 +57,7 @@ Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 
 - LG
 	- [LG 27” 27UK850-W LCD 4K Monitor w/ USB-C (2018)](https://www.amazon.com/gp/product/B078GVTD9N/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1) - $449
+	- [LG 34WK95U-W 34" 21:9 UltraWide 5K2K Nano IPS Monitor](https://www.bhphotovideo.com/c/product/1382968-REG/lg_34wk95u_34_nano_ips.html/DFF/d10-v2-t1-xLG34WK95U)
 
 - HP
 	- [HP Z27 4K UHD LED Monitor w/ USB-C](https://store.hp.com/us/en/pdp/hp-z27-27-inch-4k-uhd-display) - $510
