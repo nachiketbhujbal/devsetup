@@ -74,6 +74,6 @@ External storage can be broken down into mainly two categories:
 ## External GPU (eGPU)
 
 - [Black Magic eGPU](https://www.apple.com/shop/product/HM8Y2VC/A/blackmagic-egpu) - $ 699
-- [PowerColor Mini Pro](https://www.amazon.com/PowerColor-Mini-RX570-eGPU-Thunderbolt3/dp/B07Q4R7GZR)
+- [PowerColor Mini Pro](https://www.amazon.com/PowerColor-Mini-RX570-eGPU-Thunderbolt3/dp/B07Q4R7GZR) - $ 475
 
 
