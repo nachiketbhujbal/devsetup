@@ -45,7 +45,9 @@ Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 
 ## Display & Monitor Options
 
-- [LG 27UK850-W 27” 4K UHD IPS HDR10 Monitor with USB-C Connectivity](https://www.amazon.com/gp/product/B078GVTD9N/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1) - $449
+- [Dell 32" Ultrasharp 4k USB-C](https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) - $ 900
+
+- [LG 27” 27UK850-W 4K USB-C](https://www.amazon.com/gp/product/B078GVTD9N/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1) - $449
 
 ## External Storage
 
