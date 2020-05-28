@@ -72,6 +72,8 @@ External storage can be broken down into mainly two categories:
 
 > NVMe M.2 SSD drives
 
+- [Sabrent 2TB Rocket NVMe 4.0 Gen4 PCIe](https://www.amazon.com/dp/B07TN1MNJ4/ref=twister_B081ZGMSVY?_encoding=UTF8&th=1)
+
 - [Sabrent 2TB Rocket NVMe PCIe M.2 2280 Internal SSD](https://www.amazon.com/dp/B07MTQTNVR/ref=twister_B085GG5QDR?_encoding=UTF8&th=1)
 
 - [Seagate Firecuda 520 2TB Performance SSD](https://www.amazon.com/dp/B07ZPRPFQY?ref=dacx_dp_5142254750401_6381179620901&aaxitk=wIJLwfqBF2w1o-AuivOxZw&th=1)
