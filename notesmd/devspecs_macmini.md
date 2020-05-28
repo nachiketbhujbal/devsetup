@@ -74,6 +74,7 @@ External storage can be broken down into mainly two categories:
 
 > NVMe M.2 SSD drives
 
+- [Samsung (MZ-V7E1T0BW) 970 EVO SSD 1TB - M.2 NVMe Interface Internal Solid State Drive](https://www.amazon.com/MZ-V7E500BW-Samsung-970-EVO/dp/B07BN217QG/ref=sr_1_3?crid=WILBZ1OMXUDY&dchild=1&keywords=nvme%2Bm.2%2Bssd&qid=1590625873&s=electronics&sprefix=nvme%2Bm.2%2B%2Celectronics%2C162&sr=1-3&th=1)
 
 > 7200 RPM HDD:
 
