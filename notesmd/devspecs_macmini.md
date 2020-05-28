@@ -53,6 +53,7 @@ Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 - [PowerColor Mini Pro](https://www.amazon.com/PowerColor-Mini-RX570-eGPU-Thunderbolt3/dp/B07Q4R7GZR)
 
 ## External Storage
+
 > External storage can be broken down into mainly two categories, Hard-Disk Drives vs Solid State Drives.
 
 > SSDs are great for fast read/write speeds.
