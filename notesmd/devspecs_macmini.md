@@ -47,6 +47,8 @@ Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 
 - [Dell 32" Ultrasharp 4k USB-C](https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) - $ 900
 
+- [HP Z27 4K UHD USB-C](https://store.hp.com/us/en/pdp/hp-z27-27-inch-4k-uhd-display) - $510
+
 - [LG 27” 27UK850-W 4K USB-C](https://www.amazon.com/gp/product/B078GVTD9N/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1) - $449
 
 ## External Storage
