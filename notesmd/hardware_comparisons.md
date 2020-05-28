@@ -53,7 +53,7 @@ Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 		- [Dell 27" Ultrasharp LED Monitor - U2720Q (2020)](https://www.dell.com/en-us/work/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-avjv/monitors-monitor-accessories) - $580
 
 - Lenovo
-	- [ThinkVision P32u-10 32" 4K Adobe RGB Thunderbolt 3 Monitor](https://www.lenovo.com/us/en/accessories-and-monitors/P32u) - $1499
+	- [ThinkVision P32u-10 32" 4K Adobe RGB Thunderbolt 3 Monitor](https://www.lenovo.com/us/en/accessories-and-monitors/P32u) - $1499 **EXPENSIVE**
 
 - LG
 	- [LG 27” 27UK850-W LCD 4K Monitor w/ USB-C (2018)](https://www.amazon.com/gp/product/B078GVTD9N/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1) - $449
