@@ -55,6 +55,7 @@ Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 ## External Storage
 
 External storage can be broken down into mainly two categories:
+    
     - Hard-Disk Drives: Great for fast read/write speeds.
     - Solid State Drives: Long-term storage, backups, and redundancy (RAID)
 
