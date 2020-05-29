@@ -31,8 +31,8 @@ Add __-__ characters between each word in the heading and wrap the value in  par
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 
 > Line width before auto wrap on github is 103 characters
-> + count: 50
-> - count: 51
+> '+' count: 50
+> '-' count: 51
 
 # Comments in GitHub flavour of Markdown
 
