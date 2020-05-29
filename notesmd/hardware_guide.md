@@ -51,7 +51,8 @@ Processor		  |	Intel i5<sup>1</sup> | Intel i7<sup>2</sup> | Intel i7<sup>2</sup
 Internal RAM	  |	8 GB       | 8 GB        | 64 GB	
 Internal SSD 	  |	512 GB     | 512 GB      | 2 TB 
 Graphics 		  |	Intel UHD  | Intel UHD   | Intel UHD
-Networking 		  | 1 Gigabit  | 10 Gigabit  | 10 Gigabit 
+Networking 		  | 1 Gigabit  | 10 Gigabit  | 10 Gigabit
+Software & Warranty | None     | AppleCare+  | Final Cut Pro X, Logic Pro X, and AppleCare+
 ----------------- | ---------- | ----------- | ---------
 *Upgrades Cost*   | *+ $0*     | *+ $399*    | *+ $2498*
 **TOTAL COST**    |**$1099.00**|**$1498.00** |**$3597.00**
@@ -59,35 +60,7 @@ Networking 		  | 1 Gigabit  | 10 Gigabit  | 10 Gigabit
 * i5<sup>1</sup>: 6-core 3.0 GHz 8th Gen "Coffee Lake" Intel i5 w/ Turbo Boost up to 4.1 GHz
 * i7<sup>2</sup>: 6-core 3.2 GHz 8th Gen "Coffee Lake" Intel i7 w/ Turbo Boost up to 4.6 GHz
 
-##### CPU
-Specification     | Base Model | Recommended | Maxed Out
------------------ | ---------- | ----------- | ---------
-Clock Freq        | 3.0 GHz    | 3.2 GHz     | 3.2 GHz
-Cores             | 6-core     | 6-core      | 6-core
-Generation        | 8th        | 8th         | 8th
-Gen Nickname      | Coffee-Lake| Coffee-Lake | Coffee-Lake
-Processor         | Intel i5   | Intel i7    | Intel i7
-Turbo Boost       | 4.1 GHz    | 4.6 GHz     | 4.6 GHz
------------------ | ---------- | ----------- | -----------
-**CPU COST**      | + $0       | + $200      | + $200
 
-##### Memory & Storage
-Specification     | Base Model | Recommended | Maxed Out
------------------ | ---------- | ----------- | ---------
-Internal SSD      | 512 GB     | 512 GB      | 2TB
-Internal RAM      | 8 GB       | 8 GB        | 64 GB
------------------ | ---------- | ----------- | -----------
-**SSD COST**      | + $0       | + $0        | + $600
-**RAM COST**      | + $0       | + $0        | + $1000
-
-##### Graphics & Networking
-Specification     | Base Model | Recommended | Maxed Out
------------------ | ---------- | ----------- | ---------
-Graphics Card     | Intel UHD  | Intel UHD   | Intel UHD
-Ethernet Card     | Gigabit    | 10 Gigabit  | 10 Gigabit
------------------ | ---------- | ----------- | -----------
-**GPU COST**      | + $0       | + $0        | + $0
-**ETH COST**      | + $0       | + $100      | + $100
 
 ##### Additional Software & Warranty
 Specification     | Base Model | Recommended | Maxed Out
