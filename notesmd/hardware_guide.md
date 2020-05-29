@@ -83,6 +83,7 @@ Displays are listed in descending order by resolution, connectivity, and size in
 
 ### HDMI 2.0 & DisplayPort
 > Able to output 4K @ 60 Hz
+
 #### 32+ inch
 - [BenQ Designer PD3200U 32"](https://shorturl.at/anoFT) - $ 699
 	- Built-in KVM Switch
