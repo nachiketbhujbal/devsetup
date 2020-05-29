@@ -26,7 +26,9 @@
 			<!-- - [27" Inch](#27-inch-5) -->
 
 	- [2K QHD Monitors](#2k-qhd-monitors)
+
 		[//]: # <!-- - [Thunderbolt 3](#thunderbolt-3-2) -->
+
 			<!-- - [32" Inch](#32-inch-6) -->
 			<!-- - [27" Inch](#27-inch-6) -->
 		<!-- - [USB Type-C](#usb-type-c-2) -->
