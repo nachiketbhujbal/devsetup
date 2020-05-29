@@ -4,7 +4,7 @@
 
 - [Displays & Monitors](#Displays--Monitors)
 	- [Thunderbolt 3](#Thunderbolt-3)
-	- [USB Type-C](#USB-Type---C)
+	- [USB Type-C](#USB-Type-C-Connectivity)
 - [Desktop Computers & Workstations](#Desktop-Computers--Workstations)
 	- [Apple Mac mini](#Apple-Mac-mini)
 		- [Summary](#Summary)
@@ -15,11 +15,20 @@
 
 ## Displays & Monitors
 
+### Thunderbolt 3 Connectivity
+
+### USB Type-C Connectivity
+
+
+
 
 
 ## Desktop Computers & Workstations
 
-### [Apple Mac mini](https://www.apple.com/mac-mini/)
+### Small Form Factor
+
+#### [Apple Mac mini](https://www.apple.com/mac-mini/)
+
 ##### Summary
 Specification     | Base Model | Recommended | Maxed Out
 ----------------- | ---------- | ----------- | ---------
