@@ -20,3 +20,8 @@ Add __-__ characters between each word in the heading and wrap the value in  par
 
 `# Name & Date`
 `[Name & Date](#Name--Date)`
+
+> If using '-' in a heading name, just omit in anchor
+
+`# January - March`
+`[January - March](#January-March)`
