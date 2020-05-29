@@ -47,17 +47,23 @@ Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 
 ## Display & Monitor Options
 
-- Dell
-    - 4K UHD (3840 x 2160) w/ USB-C
-        - [Dell 32" Ultrasharp LED Monitor - U3219Q (2019)](https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) - $ 899
-		- [Dell 27" Ultrasharp LED Monitor - U2720Q (2020)](https://www.dell.com/en-us/work/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-avjv/monitors-monitor-accessories) - $580
+#### 32 inch 4K displays (3840 x 2160)
 
-- Lenovo
-	- [ThinkVision P32u-10 32" 4K Adobe RGB Thunderbolt 3 Monitor](https://www.lenovo.com/us/en/accessories-and-monitors/P32u) - $1499 **EXPENSIVE**
+- [Dell 32" Ultrasharp LED Monitor - U3219Q (2019)](https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) - $ 899
 
-- LG
-	- [LG 27” 27UK850-W LCD 4K Monitor w/ USB-C (2018)](https://www.amazon.com/gp/product/B078GVTD9N/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1) - $449
-	- [LG 34WK95U-W 34" 21:9 UltraWide 5K2K Nano IPS Monitor](https://www.bhphotovideo.com/c/product/1382968-REG/lg_34wk95u_34_nano_ips.html/DFF/d10-v2-t1-xLG34WK95U)
+- [ThinkVision P32u-10 32" 4K Adobe RGB Thunderbolt 3 Monitor](https://www.lenovo.com/us/en/accessories-and-monitors/P32u) - $ 1499
+
+- [LG 34WK95U-W 34" 21:9 UltraWide 5K2K Nano IPS Monitor](https://www.bhphotovideo.com/c/product/1382968-REG/lg_34wk95u_34_nano_ips.html/DFF/d10-v2-t1-xLG34WK95U) - $ 1299
+
+- [BenQ 32 inch, 4K UHD Monitor, IPS Panel](https://www.amazon.com/BenQ-PD3200U-Designer-3840x2160-DualView/dp/B01MY142C0/ref=sr_1_1?dchild=1&keywords=BenQ+PD3200U&qid=1590721090&sr=8-1)
+
+#### 27 inch 4K displays (3840 x 2160)
+
+- [Dell 27" Ultrasharp LED Monitor - U2720Q (2020)](https://www.dell.com/en-us/work/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-avjv/monitors-monitor-accessories) - $580
+
+
+- [LG 27” 27UK850-W LCD 4K Monitor w/ USB-C (2018)](https://www.amazon.com/gp/product/B078GVTD9N/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1) - $449
+
 
 - HP
 	- [HP Z27 4K UHD LED Monitor w/ USB-C](https://store.hp.com/us/en/pdp/hp-z27-27-inch-4k-uhd-display) - $510
