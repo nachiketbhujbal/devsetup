@@ -23,14 +23,15 @@
 - [ASUS ProArt PA32UC 32" 4K UHD Adobe RGB](https://www.asus.com/us/Monitors/ProArt-PA32UC/)
 
 ### USB Type-C Connectivity
-- [Dell U3219Q 32" Ultrasharp LED Monitor](https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) - $ 899
+- [Dell Ultrasharp U3219Q 32" 4K UHD LED Monitor](https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) - $ 899
+	- Has built-in KVM Switch
 
 ### 5K & UltraWide Monitors
 - [LG UltraFine 5K Display](https://www.apple.com/shop/product/HMUB2LL/A/lg-ultrafine-5k-display) - $ 1299
-	- 5120 x 2880
+	- **5120 x 2880**
 	- Supports Thunderbolt 3
 - [LG 34WK95U-W 34" 21:9 UltraWide 5K2K Nano IPS Monitor](https://www.bhphotovideo.com/c/product/1382968-REG/lg_34wk95u_34_nano_ips.html/DFF/d10-v2-t1-xLG34WK95U) - $ 1299
-	- 5120 x 2160
+	- **5120 x 2160**
 	- Supports Thunderbolt 3
 
 
