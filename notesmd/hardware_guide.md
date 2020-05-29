@@ -4,16 +4,26 @@
 	
 - [Desktop Computers & Workstations](#Desktop-Computers--Workstations)
 	- [Apple Mac mini](#Apple-Mac-mini)
+		- [Summary](#Summary)
 		- [CPU](#CPU)
 		- [Memory & Storage](#Memory--Storage)
 		- [Graphics & Networking](#Graphics--Networking)
 		- [Additional Software & Warranty](#Additional-Software--Warranty)
 
+## Displays & Monitors
+
 
 ## Desktop Computers & Workstations
 
 ### [Apple Mac mini](https://www.apple.com/mac-mini/)
+##### Summary
 Specification     | Base Model | Recommended | Maxed Out
+----------------- | ---------- | ----------- | ---------
+Processor		  |	6-Intel i5 | 6-Intel i7  | 6-Intel i7
+Internal RAM	  |	8 GB       | 8 GB        | 64 GB	
+Internal SSD 	  |	512 GB     | 512 GB      | 2 TB 
+Graphics 		  |	Intel UHD  | Intel UHD   | Intel UHD
+Networking 		  | 1 Gigabit  | 10 Gigabit  | 10 Gigabit 
 ----------------- | ---------- | ----------- | ---------
 **TOTAL COST**    |**$1099.00**|**$1498.00** |**$3597.00**
 
@@ -66,7 +76,6 @@ Crucial      | $ 34   | $ 62    | $ 124   | $ 158   | $ 319
 OWC          | $ 40   | $ 75    | $ 145   | $ 175   | $ 339
 Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 
-## Display & Monitor Options
 
 ### Thunderbolt 3 Connectivity Monitors
 #### 32 inch 4K displays (3840 x 2160)
