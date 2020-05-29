@@ -1,7 +1,6 @@
 # Ideal Programming Setup
 
 ### Machine: [2020 Mac mini](https://www.apple.com/mac-mini/)
-#### Cost (w/upgrades): *__$ 1498.00__*
 - 6-core 3.2 GHz Intel i7 w/ Turbo Boost to 4.6 GHz
 - 512 GB PCIe SSD
 - 8 GB 2666Mhz DDR4 RAM
@@ -10,6 +9,7 @@
 - No Final Cut Pro X
 - No Logic Pro X
 - AppleCare+ Warranty
+#### Cost (w/upgrades): *__$ 1498.00__*
 
 ### Display
 
