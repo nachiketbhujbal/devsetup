@@ -24,8 +24,8 @@
         	<!-- - [27" Inch](#27-inch-4) -->
 		- [HDMI 2.0 & Displayport](#hdmi-20--displayport-1)
 			- [32" Inch](#32-inch-5)
-			- [27" Inch](#27-inch-5)
-
+			<!-- - [27" Inch](#27-inch-5) -->
+<!--
 	- [2K QHD Monitors](#2k-qhd-monitors)
 		 - [Thunderbolt 3](#thunderbolt-3-2)
 			- [32" Inch](#32-inch-6)
@@ -36,6 +36,7 @@
 		- [HDMI 2.0 & Displayport](#hdmi-20--displayport-2)
 			- [32" Inch](#32-inch-8)
 			- [27" Inch](#27-inch-8)
+ -->
 
 - [Desktop Computers & Workstations](#)
 	- [Apple Mac mini](#)
