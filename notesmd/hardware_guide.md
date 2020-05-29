@@ -20,38 +20,35 @@
 
 ### Thunderbolt 3
 #### 32 inch
-- [BenQ DesignVue Designer PD3220U 32"](shorturl.at/mpDE2) - $ 1199
+- [BenQ DesignVue Designer PD3220U 32"](https://shorturl.at/mpDE2) - $ 1199
 	- Built-in KVM Switch
 - [ASUS ProArt PA32UC 32"](https://shorturl.at/xZ149) - $ 1399
-	- Adobe RGB
-- [Lenovo ThinkVision P32u-10 32"](shorturl.at/ikpS5) - $ 1499
-	- Adobe RGB
+- [Lenovo ThinkVision P32u-10 32"](https://shorturl.at/ikpS5) - $ 1499
 	- **ON SALE RIGHT NOW: $ 944**
+
 #### 27 inch
-- [Dell Ultrasharp U2720Q 27"](shorturl.at/CLNPV) - $580
+- [Dell Ultrasharp U2720Q 27"](https://shorturl.at/CLNPV) - $580
+- [LG HDR10 27UK850-W 27”](shorturl.at/emoI4) - $ 449
+- [LG VESA DisplayHDR-400 27UL850-W 27"](https://shorturl.at/iuHL5) - $ 549
+- [HP Z27 4K UHD Monitor 27"](shorturl.at/bnu46) - $ 510
 
 ### USB Type-C
-- [Dell Ultrasharp U3219Q 32"](https://shorturl.at/aku58) - $ 899
+- [Dell Ultrasharp U3219Q 32"](https://https://shorturl.at/aku58) - $ 899
 	- Built-in KVM Switch
 
 ### HDMI 2.0 & DisplayPort
-- [BenQ Designer PD3200U 32"](shorturl.at/anoFT) - $ 699
+- [BenQ Designer PD3200U 32"](https://shorturl.at/anoFT) - $ 699
 	- Built-in KVM Switch
 
 ## 5K, UltraWide, & Curved Monitors
 ### Thunderbolt 3
-- [LG UltraFine 5K Display](shorturl.at/ruyIT) - $ 1299
+- [LG UltraFine 5K Display 27"](https://shorturl.at/ruyIT) - $ 1299
 	- **5120 x 2880**
-- [LG 34WK95U-W 34" 21:9 UltraWide 5K2K Nano IPS Monitor](shorturl.at/sQSZ1) - $ 1299
+- [LG UltraWide 5K2K 34WK95U-W 34"](https://shorturl.at/sQSZ1) - $ 1299
 	- **5120 x 2160**
 
 ## 2K QHD (2560 x 1440)
 
-
-
-- [LG 27” 27UK850-W LCD 4K Monitor w/ USB-C (2018)](https://www.amazon.com/gp/product/B078GVTD9N/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1) - $449
-
-- [HP Z27 4K UHD LED Monitor w/ USB-C](https://store.hp.com/us/en/pdp/hp-z27-27-inch-4k-uhd-display) - $510
 
 
 
