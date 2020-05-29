@@ -2,8 +2,8 @@
 
 # Contents
 
-- [Displays & Monitors](#Displays--Monitors)
-	- [Thunderbolt 3](#Thunderbolt-3-Connectivity)
+- [Televisions, Displays, & Monitors](#televisions-displays--monitors)
+	- [Thunderbolt 3](#thunderbolt-3)
 	- [USB Type-C](#USB-Type-C-Connectivity)
 	- [5K & Ultrawide](#5K--UltraWide-Monitors)
 - [Desktop Computers & Workstations](#Desktop-Computers--Workstations)
@@ -35,7 +35,7 @@
 	- Has built-in KVM Switch
 
 ## 5K, UltraWide, & Curved Monitors
-### Thunderbolt 3 Connectivity
+### Thunderbolt 3
 - [LG UltraFine 5K Display](shorturl.at/ruyIT) - $ 1299
 	- **5120 x 2880**
 - [LG 34WK95U-W 34" 21:9 UltraWide 5K2K Nano IPS Monitor](shorturl.at/sQSZ1) - $ 1299
