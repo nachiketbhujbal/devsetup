@@ -7,10 +7,8 @@
 		- [Thunderbolt 3](#thunderbolt-3)
 		- [USB Type-C](#usb-type-c)
 		- [HDMI 2.0 & Displayport](#hdmi-20--displayport)
-
 	- [5K & Ultrawide](#5k-ultrawide--curved-monitors)
 		- [Thunderbolt 3](#thunderbolt-3-1)
-
 	- [2K QHD (2560 x 1440) Monitors](#2k-qhd-2560-x-1440)
 
 - [Desktop Computers & Workstations](#Desktop-Computers--Workstations)
