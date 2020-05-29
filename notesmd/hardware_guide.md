@@ -1,4 +1,4 @@
-![Hardware Logo](/hardware_guide.png)
+![Hardware Logo](./hardware_guide.png)
 
 ## Contents
 
