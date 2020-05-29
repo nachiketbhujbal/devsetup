@@ -1,10 +1,9 @@
 # Personal Hardware Guide
 
-## Development Configuration
+## Contents
 
-## Hardware Options
-
-### Apple Mac mini (point of sale)
+## Desktop Computers & Workstations
+### [Apple Mac mini](https://www.apple.com/mac-mini/)
 
 Specification     | Base Model | Recommended | Maxed Out
 ----------------- | ---------- | ----------- | ---------
