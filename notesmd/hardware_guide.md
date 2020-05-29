@@ -23,7 +23,7 @@
 	- Has built-in KVM Switch
 
 ### USB Type-C Connectivity
-- [Dell Ultrasharp U3219Q 32" 4K UHD](shorturl.at/aku58) - $ 899
+- [Dell Ultrasharp U3219Q 32" 4K UHD](https://shorturl.at/aku58) - $ 899
 	- Has built-in KVM Switch
 
 ### HDMI 2.0 & DisplayPort Connectivity
