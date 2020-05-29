@@ -14,36 +14,44 @@
 		- [Graphics & Networking](#Graphics--Networking)
 		- [Additional Software & Warranty](#Additional-Software--Warranty)
 
-# Displays & Monitors
-> Search for best monitor prices between Amazon and B&H Photo & Video
+# Televisions, Displays, & Monitors
+> Search for best prices between Amazon and B&H Photo & Video
 
-### Thunderbolt 3 Connectivity
-- [ASUS ProArt PA32UC 32" 4K UHD Adobe RGB](https://shorturl.at/xZ149) - $ 1399
-- [Lenovo ThinkVision P32u-10 32" 4K UHD Adobe RGB](shorturl.at/ikpS5) - $ 1499 ---> **ON SALE RIGHT NOW: $ 944**
+## 4K UHD (3840 x 2160) Monitors
+
+### Thunderbolt 3
 - [BenQ DesignVue Designer PD3220U 32" 4K UHD](shorturl.at/mpDE2) - $ 1199
 	- Has built-in KVM Switch
+- [ASUS ProArt PA32UC 32" 4K UHD Adobe RGB](https://shorturl.at/xZ149) - $ 1399
+- [Lenovo ThinkVision P32u-10 32" 4K UHD Adobe RGB](shorturl.at/ikpS5) - $ 1499
+	- **ON SALE RIGHT NOW: $ 944**
 
-### USB Type-C Connectivity
+### USB Type-C
 - [Dell Ultrasharp U3219Q 32" 4K UHD](https://shorturl.at/aku58) - $ 899
 	- Has built-in KVM Switch
 
-### HDMI 2.0 & DisplayPort Connectivity
+### HDMI 2.0 & DisplayPort
 - [BenQ Designer PD3200U 32" 4K UHD](shorturl.at/anoFT) - $ 699
 	- Has built-in KVM Switch
 
-### 5K & UltraWide Monitors
+## 5K, UltraWide, & Curved Monitors
+### Thunderbolt 3 Connectivity
 - [LG UltraFine 5K Display](shorturl.at/ruyIT) - $ 1299
 	- **5120 x 2880**
-	- Supports Thunderbolt 3
 - [LG 34WK95U-W 34" 21:9 UltraWide 5K2K Nano IPS Monitor](shorturl.at/sQSZ1) - $ 1299
 	- **5120 x 2160**
-	- Supports Thunderbolt 3
+
+## 2K QHH (2560 x 1440)
 
 
 
-## Desktop Computers & Workstations
 
-### Small Form Factor
+
+
+
+# Desktop Computers & Workstations
+
+## Small Form Factor
 
 #### [Apple Mac mini](https://www.apple.com/mac-mini/specs/)
 
