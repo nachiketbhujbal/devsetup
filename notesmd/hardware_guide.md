@@ -2,8 +2,8 @@
 
 ## Contents
 	
-	-[Desktop Computers & Workstations](#Desktop-Computers-&-Workstations)
-	
+- [Desktop Computers & Workstations](#Desktop-Computers-&-Workstations)
+
 
 ## Desktop Computers & Workstations
 ### [Apple Mac mini](https://www.apple.com/mac-mini/)
