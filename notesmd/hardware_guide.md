@@ -16,6 +16,8 @@
 ## Displays & Monitors
 
 ### Thunderbolt 3 Connectivity
+- [Lenovo ThinkVision P32u-10 32" 4K UHD Adobe RGB](https://www.lenovo.com/us/en/accessories-and-monitors/P32u) - $ 1499
+- [BenQ PD3230U 32" 4K UHD](https://www.benq.com/en-us/monitor/designer/pd3220u.html) - $ 1199
 
 ### USB Type-C Connectivity
 
@@ -90,11 +92,6 @@ OWC          | $ 40   | $ 75    | $ 145   | $ 175   | $ 339
 Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 
 
-### Thunderbolt 3 Connectivity Monitors
-#### 32 inch 4K displays (3840 x 2160)
-- [ThinkVision P32u-10 32" 4K Adobe RGB Thunderbolt 3 Monitor](https://www.lenovo.com/us/en/accessories-and-monitors/P32u) - $ 1499
-
-- [BenQ PD3230U 32 inch, 4K UHD Monitor, w/Thunderbolt 3](https://www.benq.com/en-us/monitor/designer/pd3220u.html)
 
 ### USB Type-C Connectivity Monitors
 #### 32 inch 4K displays (3840 x 2160) w/ USB Type-C
