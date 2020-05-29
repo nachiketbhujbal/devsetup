@@ -8,8 +8,8 @@
 			- [32" Inch](#32-inch)
 			- [27" Inch](#27-inch)
 		<!-- - [USB Type-C](#usb-type-c) -->
-			- [32" Inch](#32-inch-1)
-			- [27" Inch](#27-inch-1)
+			<!-- - [32" Inch](#32-inch-1) -->
+			<!-- - [27" Inch](#27-inch-1) -->
 		- [HDMI 2.0 & Displayport](#hdmi-20--displayport)
 			- [32" Inch](#32-inch-2)
 			- [27" Inch](#27-inch-2)
