@@ -90,9 +90,10 @@ Displays are listed in descending order by resolution, connectivity, and size in
 #### 32+ inch
 - [BenQ Designer PD3200U 32"](https://shorturl.at/anoFT) - $ 699
 	- Built-in KVM Switch
-
+<!--
 ## 2K QHD Monitors
 **Resolution: 2560 x 1440**
+ -->
 
 # Desktop Computers & Workstations
 
