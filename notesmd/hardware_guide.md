@@ -17,22 +17,24 @@
 ## Displays & Monitors
 
 ### Thunderbolt 3 Connectivity
+- [ASUS ProArt PA32UC 32" 4K UHD Adobe RGB](https://www.asus.com/us/Monitors/ProArt-PA32UC/) - $ 1399
 - [Lenovo ThinkVision P32u-10 32" 4K UHD Adobe RGB](https://www.lenovo.com/us/en/accessories-and-monitors/P32u) - $ 1499 ---> **ON SALE RIGHT NOW: $ 944**
 - [BenQ DesignVue Designer PD3230U 32" 4K UHD](https://www.benq.com/en-us/monitor/designer/pd3220u.html) - $ 1199
 	- Has built-in KVM Switch
-- [ASUS ProArt PA32UC 32" 4K UHD Adobe RGB](https://www.asus.com/us/Monitors/ProArt-PA32UC/) - $ 1399
 
 ### USB Type-C Connectivity
-- [Dell Ultrasharp U3219Q 32" 4K UHD LED Monitor](https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) - $ 899
+- [Dell Ultrasharp U3219Q 32" 4K UHD](shorturl.at/aku58) - $ 899
 	- Has built-in KVM Switch
-- [BenQ 32 inch, 4K UHD Monitor, IPS Panel PD3200U](https://www.amazon.com/BenQ-PD3200U-Designer-3840x2160-DualView/dp/B01MY142C0/ref=sr_1_1?dchild=1&keywords=BenQ+PD3200U&qid=1590721090&sr=8-1) - $ 699
+
+### HDMI 2.0 & DisplayPort Connectivity
+- [BenQ Designer PD3200U 32" 4K UHD](https://www.benq.com/en-ap/monitor/designer/pd3200u.html) - $ 699
 	- Has built-in KVM Switch
 
 ### 5K & UltraWide Monitors
 - [LG UltraFine 5K Display](https://www.apple.com/shop/product/HMUB2LL/A/lg-ultrafine-5k-display) - $ 1299
 	- **5120 x 2880**
 	- Supports Thunderbolt 3
-- [LG 34WK95U-W 34" 21:9 UltraWide 5K2K Nano IPS Monitor](https://www.bhphotovideo.com/c/product/1382968-REG/lg_34wk95u_34_nano_ips.html/DFF/d10-v2-t1-xLG34WK95U) - $ 1299
+- [LG 34WK95U-W 34" 21:9 UltraWide 5K2K Nano IPS Monitor](https://www.lg.com/us/monitors/lg-34WK95U-W-ultrawide-monitor) - $ 1299
 	- **5120 x 2160**
 	- Supports Thunderbolt 3
 
