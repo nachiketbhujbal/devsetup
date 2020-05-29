@@ -86,10 +86,6 @@ OWC          | $ 40   | $ 75    | $ 145   | $ 175   | $ 339
 Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 
 
-#### 27 inch 4K displays (3840 x 2160)
-
-
-
 ## External Storage
 
 External storage can be broken down into mainly two categories:

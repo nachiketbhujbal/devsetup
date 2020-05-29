@@ -25,3 +25,7 @@ Add __-__ characters between each word in the heading and wrap the value in  par
 
 ```# January - March```
 ```[January - March](#January-March)```
+
+## Line Width
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
