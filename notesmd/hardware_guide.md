@@ -71,7 +71,6 @@ Displays are listed in descending order by resolution, connectivity, and size in
 - [ASUS ProArt PA32UC 32"](https://tinyurl.com/ybdzuhkj) - $ 1399
 - [Lenovo ThinkVision P32u-10 32"](https://tinyurl.com/ycv4cokp) - $ 1499
 	- [**ON SALE RIGHT NOW: $ 944**](https://www.lenovo.com/us/en/accessories-and-monitors/P32u)
-- [ViewSonic VP3268-4K PRO 32"](https://tinyurl.com/y7o6b3rz)
 - [LG 32UL950-W 32" 16:9 4K UHD HDR FreeSync IPS Monitor](https://tinyurl.com/y9q8dyrc)
 
 #### 27 inch
@@ -94,6 +93,7 @@ Displays are listed in descending order by resolution, connectivity, and size in
 #### 32+ inch
 - [BenQ Designer PD3200U 32"]() - $ 699
 	- Built-in KVM Switch
+- [ViewSonic VP3268-4K PRO 32"](https://tinyurl.com/y7o6b3rz) - $ 800
 <!--
 ## 2K QHD Monitors
 **Resolution: 2560 x 1440**
