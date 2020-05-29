@@ -1,4 +1,4 @@
-# Personal Hardware Guide
+![Hardware Logo](/hardware_guide.png)
 
 ## Contents
 
@@ -15,11 +15,12 @@
 		- [Additional Software & Warranty](#Additional-Software--Warranty)
 
 ## Displays & Monitors
+> Search for best monitor prices between Amazon and B&H Photo & Video
 
 ### Thunderbolt 3 Connectivity
-- [ASUS ProArt PA32UC 32" 4K UHD Adobe RGB](https://www.asus.com/us/Monitors/ProArt-PA32UC/) - $ 1399
-- [Lenovo ThinkVision P32u-10 32" 4K UHD Adobe RGB](https://www.lenovo.com/us/en/accessories-and-monitors/P32u) - $ 1499 ---> **ON SALE RIGHT NOW: $ 944**
-- [BenQ DesignVue Designer PD3230U 32" 4K UHD](https://www.benq.com/en-us/monitor/designer/pd3220u.html) - $ 1199
+- [ASUS ProArt PA32UC 32" 4K UHD Adobe RGB](https://shorturl.at/xZ149) - $ 1399
+- [Lenovo ThinkVision P32u-10 32" 4K UHD Adobe RGB](shorturl.at/ikpS5) - $ 1499 ---> **ON SALE RIGHT NOW: $ 944**
+- [BenQ DesignVue Designer PD3220U 32" 4K UHD](shorturl.at/mpDE2) - $ 1199
 	- Has built-in KVM Switch
 
 ### USB Type-C Connectivity
@@ -27,14 +28,14 @@
 	- Has built-in KVM Switch
 
 ### HDMI 2.0 & DisplayPort Connectivity
-- [BenQ Designer PD3200U 32" 4K UHD](https://www.benq.com/en-ap/monitor/designer/pd3200u.html) - $ 699
+- [BenQ Designer PD3200U 32" 4K UHD](shorturl.at/anoFT) - $ 699
 	- Has built-in KVM Switch
 
 ### 5K & UltraWide Monitors
-- [LG UltraFine 5K Display](https://www.apple.com/shop/product/HMUB2LL/A/lg-ultrafine-5k-display) - $ 1299
+- [LG UltraFine 5K Display](shorturl.at/ruyIT) - $ 1299
 	- **5120 x 2880**
 	- Supports Thunderbolt 3
-- [LG 34WK95U-W 34" 21:9 UltraWide 5K2K Nano IPS Monitor](https://www.lg.com/us/monitors/lg-34WK95U-W-ultrawide-monitor) - $ 1299
+- [LG 34WK95U-W 34" 21:9 UltraWide 5K2K Nano IPS Monitor](shorturl.at/sQSZ1) - $ 1299
 	- **5120 x 2160**
 	- Supports Thunderbolt 3
 
