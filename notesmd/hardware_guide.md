@@ -1,7 +1,10 @@
 # Personal Hardware Guide
 
 ## Contents
-	
+
+- [Displays & Monitors](#Displays--Monitors)
+	- [Thunderbolt 3](#Thunderbolt-3)
+	- [USB Type-C](#USB-Type---C)
 - [Desktop Computers & Workstations](#Desktop-Computers--Workstations)
 	- [Apple Mac mini](#Apple-Mac-mini)
 		- [Summary](#Summary)
@@ -11,6 +14,7 @@
 		- [Additional Software & Warranty](#Additional-Software--Warranty)
 
 ## Displays & Monitors
+
 
 
 ## Desktop Computers & Workstations
