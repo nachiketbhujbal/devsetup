@@ -5,16 +5,19 @@
 - [Televisions, Displays, & Monitors](#televisions-displays--monitors)
 	- [4K UHD (3840 x 2160) Monitors](#4k-uhd-3840-x-2160-monitors)
 		- [Thunderbolt 3](#thunderbolt-3)
+			- [32" Inch](#32-inch)
+			- [27" Inch](#27-inch)
 		- [USB Type-C](#usb-type-c)
+			- [32" Inch](#32-inch-1)
 		- [HDMI 2.0 & Displayport](#hdmi-20--displayport)
-	- [5K & Ultrawide](#5k-ultrawide--curved-monitors)
+	- [5K & Ultrawide & Curved](#5k-ultrawide--curved-monitors)
 		- [Thunderbolt 3](#thunderbolt-3-1)
 	- [2K QHD (2560 x 1440) Monitors](#2k-qhd-2560-x-1440)
 
 - [Desktop Computers & Workstations](#Desktop-Computers--Workstations)
 	- [Apple Mac mini](#Apple-Mac-mini)
 
-# Televisions, Displays, & Monitors
+# Televisions | Displays & Monitors
 
 ## 4K UHD (3840 x 2160) Monitors
 
@@ -40,7 +43,7 @@
 - [BenQ Designer PD3200U 32"](https://shorturl.at/anoFT) - $ 699
 	- Built-in KVM Switch
 
-## 5K, UltraWide, & Curved Monitors
+## 5K+ | Ultrawide | Curved
 ### Thunderbolt 3
 - [LG UltraFine 5K Display 27"](https://shorturl.at/ruyIT) - $ 1299
 	- **5120 x 2880**
