@@ -71,7 +71,7 @@ Displays are listed in descending order by resolution, connectivity, and size in
 - [ASUS ProArt PA32UC 32"](https://tinyurl.com/ybdzuhkj) - $ 1399
 - [Lenovo ThinkVision P32u-10 32"](https://tinyurl.com/ycv4cokp) - $ 1499
 	- [**ON SALE RIGHT NOW: $ 944**](https://www.lenovo.com/us/en/accessories-and-monitors/P32u)
-- [LG 32UL950-W 32" 16:9 4K UHD HDR FreeSync IPS Monitor](https://tinyurl.com/y9q8dyrc)
+- [LG 32UL950-W 32" 16:9 4K UHD HDR FreeSync IPS Monitor](https://tinyurl.com/y9q8dyrc) - $ 1299
 
 #### 27 inch
 - [Dell Ultrasharp U2720Q 27"](https://tinyurl.com/yc3tre47) - $580
@@ -160,5 +160,32 @@ External storage can be broken down into mainly two categories:
 - [Logitech MX Keys]() - $ 100
 - [Wood Monitor Stand with Docking Station]() - $ 140
 - [Magic Trackpad 2 - Space Gray]() - $ 149
+
+
+# Ideal Programming Setup (as of May 2020)
+
+### Machine: [Apple Mac mini - 2020](https://www.apple.com/mac-mini/specs/)
+> Total Cost (w/upgrades): *__$ 1498.00__*
+- 6-core 3.2 GHz Intel i7 w/ Turbo Boost to 4.6 GHz
+- 512 GB PCIe SSD
+- 8 GB 2666Mhz DDR4 RAM
+- Intel UHD Graphics
+- 10 Gb Ethernet
+- AppleCare+ Warranty
+
+### Display
+
+
+### Accessories
+
+- [Logitech MX Master 3]() - $ 100
+- [Logitech MX Keys]() - $ 100
+- [Magic Trackpad 2 - Space Gray]() - $ 149
+
+### Upgrades
+
+* [Samsung 32GB DDR4 2666MHz RAM Memory Module]() - $ 135
+    - Brings total DDR4 memory up to **36 GB / 64 GB** (Max)
+    - Additional 32GB stick can be purchased later if necessary to bring total memory up to 64 GB
 
 
