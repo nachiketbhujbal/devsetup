@@ -2,7 +2,7 @@
 
 ### Machine
 
-* 2020 Mac mini - *__$ 1498.00__*
+* 2020 Mac mini - <p align="right">$ 1498.00</p>
 	- 6-core 3.2 GHz Intel i7 w/ Turbo Boost to 4.6 GHz
 	- 512 GB PCIe SSD
 	- 8 GB 2666Mhz DDR4 RAM
