@@ -16,7 +16,7 @@ Add __-__ characters between each word in the heading and wrap the value in  par
 
 ```[create an anchor](#anchors-in-markdown)```
 
-- If using '&' in a heading name, use `--` instead. 
+- If using '&' in a heading name, use `--` instead.
 
 ```# Name & Date```
 ```[Name & Date](#Name--Date)```
@@ -33,3 +33,25 @@ Add __-__ characters between each word in the heading and wrap the value in  par
 > Line width before auto wrap on github is 103 characters
 > + count: 50
 > - count: 51
+
+# Comments in GitHub flavour of Markdown
+
+As answers to [this Stack Overflow question](http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+reveal, using `<!---` and `--->` or `<!--` and `-->` works (view source by clicking "Raw"):
+
+<!---
+All this should be
+commented out
+-->
+
+<!--
+This too
+-->
+
+## Inline comments
+
+How about commenting out <!--- just ---> a part of one line?
+
+For inline commenting `<!-- a normal html comment -->` now works.
+
+You can't see this: <!-- foo bar -->
