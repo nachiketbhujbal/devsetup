@@ -46,14 +46,14 @@
 
 ##### Summary
 Specification       | Base Model Specs      | Recommended Specs    | Maxed Out Specs
-------------------- | --------------------- | -------------------- | ---------------------
+------------------- | --------------------- | -------------------- | ----------------------
 Processor           | Intel i5<sup>1</sup>  | Intel i7<sup>2</sup> | Intel i7<sup>2</sup>
 Internal RAM        | 8 GB 2666MHz DDR4     | 8 GB 2666MHz DDR4    | 64 GB 2666MHz DDR4
-Internal SSD        | 512 GB PCIe-based SSD | 512 GB PCIe-based SSD| 2 TB 
-Graphics            | Intel UHD | Intel UHD | Intel UHD
-Networking          | 1 Gigabit BASE-T      | 10 Gigabit Nbase-T | 10 Gigabit Nbase-T
-Software & Warranty | None                  | AppleCare+ | Everything<sup>3</sup>
-------------------- | ---------- | ----------- | --------------------------------
+Internal SSD        | 512 GB PCIe-based SSD | 512 GB PCIe-based SSD| 2 TB PCIe-based SSD
+Graphics            | Intel UHD Graphics    | Intel UHD Graphics   | Intel UHD Graphics
+Networking          | 1 Gigabit BASE-T      | 10 Gigabit Nbase-T   | 10 Gigabit Nbase-T
+Software & Warranty | None                  | AppleCare+           | Everything<sup>3</sup>
+------------------- | --------------------- | -------------------- | ----------------------
 *Upgrades Cost* | *+ $0* | *+ $399* | *+ $2498*
 **TOTAL COST** | **$1099.00** | **$1498.00** | **$3597.00**
 
