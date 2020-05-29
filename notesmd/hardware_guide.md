@@ -67,12 +67,13 @@ Displays are listed in descending order by resolution, connectivity, and size in
 - [ASUS ProArt PA32UC 32"](https://shorturl.at/xZ149) - $ 1399
 - [Lenovo ThinkVision P32u-10 32"](https://shorturl.at/ikpS5) - $ 1499
 	- **ON SALE RIGHT NOW: $ 944**
+- [ViewSonic VP3268-4K PRO 32"](https://shorturl.at/czO15)
 
 #### 27 inch
 - [Dell Ultrasharp U2720Q 27"](https://shorturl.at/CLNPV) - $580
-- [LG HDR10 27UK850-W 27”](shorturl.at/emoI4) - $ 449
+- [LG HDR10 27UK850-W 27”](https://shorturl.at/emoI4) - $ 449
 - [LG VESA DisplayHDR-400 27UL850-W 27"](https://shorturl.at/iuHL5) - $ 549
-- [HP Z27 4K UHD Monitor 27"](shorturl.at/bnu46) - $ 510
+- [HP Z27 4K UHD Monitor 27"](https://shorturl.at/bnu46) - $ 510
 
 ### USB Type-C
 > **Speeds up to 10 Gbps**
@@ -151,6 +152,6 @@ External storage can be broken down into mainly two categories:
 - [Logitech MX Master 3](https://shorturl.at/mnpyA) - $ 100
 - [Logitech MX Keys](https://shorturl.at/cdjq8) - $ 100
 - [Wood Monitor Stand with Docking Station](https://shorturl.at/eltG5) - $ 140
-- [Magic Trackpad 2 - Space Gray](shorturl.at/eptC1) - $ 149
+- [Magic Trackpad 2 - Space Gray](https://shorturl.at/eptC1) - $ 149
 
 

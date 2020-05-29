@@ -20,7 +20,7 @@
 
 ### Upgrades
 
-* [Samsung 32GB DDR4 2666MHz RAM Memory Module](shorturl.at/dGS34) - $ 135
+* [Samsung 32GB DDR4 2666MHz RAM Memory Module](https://shorturl.at/dGS34) - $ 135
 	- Brings total DDR4 memory up to **36 GB / 64 GB** (Max)
 	- Additional 32GB stick can be purchased later if necessary to bring total memory up to 64 GB
 
