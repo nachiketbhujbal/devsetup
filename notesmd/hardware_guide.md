@@ -47,7 +47,7 @@
 ##### Summary
 Specification     | Base Model | Recommended | Maxed Out
 ----------------- | ---------- | ----------- | ---------
-Processor		  |	8th Gen 6-core 3.0 GHz Intel i5 w/ Turbo Boost up to 4.1 GHz | 6-core Intel i7  | 6-core Intel i7
+Processor		  |	6-core 3.0 GHz 8th Gen "Coffee Lake" Intel i5 w/ Turbo Boost up to 4.1 GHz | 6-core 3.2 GHz 8th Gen "Coffee Lake" Intel i7 w/ Turbo Boost up to 4.6 GHz | 6-core 3.2 GHz 8th Gen "Coffee Lake" Intel i7 w/ Turbo Boost up to 4.6 GHz
 Internal RAM	  |	8 GB       | 8 GB        | 64 GB	
 Internal SSD 	  |	512 GB     | 512 GB      | 2 TB 
 Graphics 		  |	Intel UHD  | Intel UHD   | Intel UHD
