@@ -7,12 +7,12 @@
 		- [Thunderbolt 3](#thunderbolt-3)
 			- [32" Inch](#32-inch)
 			- [27" Inch](#27-inch)
-		<!-- - [USB Type-C](#usb-type-c) -->
-			<!-- - [32" Inch](#32-inch-1) -->
-			<!-- - [27" Inch](#27-inch-1) -->
-		<!-- - [HDMI 2.0 & Displayport](#hdmi-20--displayport) -->
-			<!-- - [32" Inch](#32-inch-2) -->
-			<!-- - [27" Inch](#27-inch-2) -->
+		- [USB Type-C](#usb-type-c)
+			- [32" Inch](#32-inch-1)
+			- [27" Inch](#27-inch-1)
+		- [HDMI 2.0 & Displayport](#hdmi-20--displayport)
+			- [32" Inch](#32-inch-2)
+			- [27" Inch](#27-inch-2)
 
 	- [4K UHD Monitors](#4k-uhd-monitors)
 		- [Thunderbolt 3](#thunderbolt-3-1)
@@ -20,10 +20,10 @@
 			- [27" Inch](#27-inch-3)
 		- [USB Type-C](#usb-type-c-1)
 			- [32" Inch](#32-inch-4)
-			<!-- - [27" Inch](#27-inch-4) -->
+			- [27" Inch](#27-inch-4)
 		- [HDMI 2.0 & Displayport](#hdmi-20--displayport-1)
 			- [32" Inch](#32-inch-5)
-			<!-- - [27" Inch](#27-inch-5) -->
+			- [27" Inch](#27-inch-5)
 
 	- [2K QHD Monitors](#2k-qhd-monitors)
 		 - [Thunderbolt 3](#thunderbolt-3-2)
