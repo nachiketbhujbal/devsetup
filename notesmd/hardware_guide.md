@@ -39,7 +39,7 @@ Displays are sorted in order by resolution, connectivity, and size in inches.
 - [ASUS ProArt PA32UC 32"](https://shorturl.at/xZ149) - $ 1399
 - [Lenovo ThinkVision P32u-10 32"](https://shorturl.at/ikpS5) - $ 1499
 	- **ON SALE RIGHT NOW: $ 944**
-
+	
 ### USB Type-C
 - [Dell Ultrasharp U3219Q 32"](https://https://shorturl.at/aku58) - $ 899
 	- Built-in KVM Switch
