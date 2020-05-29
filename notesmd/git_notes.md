@@ -16,12 +16,12 @@ Add __-__ characters between each word in the heading and wrap the value in  par
 
 ```[create an anchor](#anchors-in-markdown)```
 
-> If using '&' in a heading name, use `--` instead. 
+- If using '&' in a heading name, use `--` instead. 
 
 `# Name & Date`
 `[Name & Date](#Name--Date)`
 
-> If using '-' in a heading name, just omit in anchor
+- If using '-' in a heading name, just omit in anchor
 
 `# January - March`
 `[January - March](#January-March)`
