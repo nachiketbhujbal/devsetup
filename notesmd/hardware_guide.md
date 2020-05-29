@@ -41,7 +41,7 @@
 
 # Televisions | Displays & Monitors
 
-Displays are listed in descending order by resolution, connectivity, and size in inches.  
+Displays are listed in descending order by resolution, connectivity, and size in inches.
 
 ## 5K+ | Ultrawide | Curved
 > Requires Thunderbolt 3 or USB Type-C
@@ -117,7 +117,7 @@ Software & Warranty | None                  | AppleCare+           | Everything<
 ## Upgradeable RAM (purchased separately later)
 
 Company\Size | 1x8 GB | 1x16 GB | 2x16 GB | 1x32 GB | 2x32 GB
------------- | ------ | ------  | ------- | ------- | ------- 
+------------ | ------ | ------  | ------- | ------- | -------
 Crucial      | $ 34   | $ 62    | $ 124   | $ 158   | $ 319
 OWC          | $ 40   | $ 75    | $ 145   | $ 175   | $ 339
 Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
@@ -127,8 +127,8 @@ Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 ## External Storage
 
 External storage can be broken down into mainly two categories:
-    - Hard-Disk Drives (HDD): Great for fast read/write speeds.
-    - Solid-State Drives (SSD): Long-term storage, backups, & redundancy (RAID)
+    - Hard-Disk Drives (HDD): Long-term storage, backups, & redundancy (RAID)
+    - Solid-State Drives (SSD): Great for fast read/write speeds.
 
 > Thunderbolt 3 NVMe M.2 SSD & Enclosures
 - [Fledgling Shell Thunder SSD Enclosure](https://shorturl.at/epOS6) - $ 140
@@ -140,16 +140,17 @@ External storage can be broken down into mainly two categories:
 
 - [G-Technology 2TB G-DRIVE mobile SSD](https://shorturl.at/cfPQ9) - $ 330
 
-## Accessories
+## External GPU (eGPU)
+
+- [Black Magic eGPU](https://shorturl.at/ipBKN) - $ 699
+- [PowerColor Mini Pro](https://shorturl.at/jknzJ) - $ 475
+
+# Accessories
 
 - [Satechi Data Hub for Mac mini](https://shorturl.at/IOX05) - $ 80
 - [Logitech MX Master 3](https://shorturl.at/mnpyA) - $ 100
 - [Logitech MX Keys](https://shorturl.at/cdjq8) - $ 100
 - [Wood Monitor Stand with Docking Station](https://shorturl.at/eltG5) - $ 140
-
-## External GPU (eGPU)
-
-- [Black Magic eGPU](https://shorturl.at/ipBKN) - $ 699
-- [PowerColor Mini Pro](https://shorturl.at/jknzJ) - $ 475
+- [Magic Trackpad 2 - Space Gray](shorturl.at/eptC1) - $ 149
 
 
