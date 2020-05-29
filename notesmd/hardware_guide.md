@@ -2,11 +2,11 @@
 
 ## Contents
 	
-- [Desktop Computers & Workstations](#Desktop-Computers-&-Workstations)
+- [Desktop Computers & Workstations](#Desktop-Computers-amp-Workstations)
 	- [Apple Mac mini](#Apple-Mac-mini)
 		- [CPU](#CPU)
-		- [Memory & Storage](#Memory-&-Storage)
-		- [Graphics & Networking](#Graphics-&-Networking)
+		- [Memory & Storage](#Memory-amp-Storage)
+		- [Graphics & Networking](#Graphics-amp-Networking)
 
 
 ## Desktop Computers & Workstations
