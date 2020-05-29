@@ -25,6 +25,8 @@
 ### USB Type-C Connectivity
 - [Dell Ultrasharp U3219Q 32" 4K UHD LED Monitor](https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) - $ 899
 	- Has built-in KVM Switch
+- [BenQ 32 inch, 4K UHD Monitor, IPS Panel PD3200U](https://www.amazon.com/BenQ-PD3200U-Designer-3840x2160-DualView/dp/B01MY142C0/ref=sr_1_1?dchild=1&keywords=BenQ+PD3200U&qid=1590721090&sr=8-1) - $ 700
+	- Has built-in KVM Switch
 
 ### 5K & UltraWide Monitors
 - [LG UltraFine 5K Display](https://www.apple.com/shop/product/HMUB2LL/A/lg-ultrafine-5k-display) - $ 1299
@@ -106,10 +108,6 @@ Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 
 
 #### 32+ inch 4K displays (3840 x 2160)
-
-
-- [BenQ 32 inch, 4K UHD Monitor, IPS Panel PD3200U](https://www.amazon.com/BenQ-PD3200U-Designer-3840x2160-DualView/dp/B01MY142C0/ref=sr_1_1?dchild=1&keywords=BenQ+PD3200U&qid=1590721090&sr=8-1)
-
 
 #### 27 inch 4K displays (3840 x 2160)
 
