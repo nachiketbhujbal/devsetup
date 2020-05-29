@@ -10,8 +10,10 @@
 		- [USB Type-C](#usb-type-c)
 			- [32" Inch](#32-inch-1)
 		- [HDMI 2.0 & Displayport](#hdmi-20--displayport)
+
 	- [5K & Ultrawide & Curved](#5k-ultrawide--curved-monitors)
 		- [Thunderbolt 3](#thunderbolt-3-1)
+
 	- [2K QHD (2560 x 1440) Monitors](#2k-qhd-2560-x-1440)
 
 - [Desktop Computers & Workstations](#Desktop-Computers--Workstations)
@@ -19,21 +21,24 @@
 
 # Televisions | Displays & Monitors
 
+Displays are sorted in order by resolution, connectivity, and size in inches.  
+
+## 2K QHD (2560 x 1440)
+
 ## 4K UHD (3840 x 2160) Monitors
-
 ### Thunderbolt 3
-#### 32 inch
-- [BenQ DesignVue Designer PD3220U 32"](https://shorturl.at/mpDE2) - $ 1199
-	- Built-in KVM Switch
-- [ASUS ProArt PA32UC 32"](https://shorturl.at/xZ149) - $ 1399
-- [Lenovo ThinkVision P32u-10 32"](https://shorturl.at/ikpS5) - $ 1499
-	- **ON SALE RIGHT NOW: $ 944**
-
 #### 27 inch
 - [Dell Ultrasharp U2720Q 27"](https://shorturl.at/CLNPV) - $580
 - [LG HDR10 27UK850-W 27”](shorturl.at/emoI4) - $ 449
 - [LG VESA DisplayHDR-400 27UL850-W 27"](https://shorturl.at/iuHL5) - $ 549
 - [HP Z27 4K UHD Monitor 27"](shorturl.at/bnu46) - $ 510
+
+#### 32+ inch
+- [BenQ DesignVue Designer PD3220U 32"](https://shorturl.at/mpDE2) - $ 1199
+	- Built-in KVM Switch
+- [ASUS ProArt PA32UC 32"](https://shorturl.at/xZ149) - $ 1399
+- [Lenovo ThinkVision P32u-10 32"](https://shorturl.at/ikpS5) - $ 1499
+	- **ON SALE RIGHT NOW: $ 944**
 
 ### USB Type-C
 - [Dell Ultrasharp U3219Q 32"](https://https://shorturl.at/aku58) - $ 899
@@ -44,13 +49,17 @@
 	- Built-in KVM Switch
 
 ## 5K+ | Ultrawide | Curved
+
 ### Thunderbolt 3
+
+#### 27 inch
 - [LG UltraFine 5K Display 27"](https://shorturl.at/ruyIT) - $ 1299
 	- **5120 x 2880**
+
+#### 32+ inch
 - [LG UltraWide 5K2K 34WK95U-W 34"](https://shorturl.at/sQSZ1) - $ 1299
 	- **5120 x 2160**
 
-## 2K QHD (2560 x 1440)
 
 
 
