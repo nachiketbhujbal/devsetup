@@ -3,8 +3,9 @@
 ## Contents
 
 - [Displays & Monitors](#Displays--Monitors)
-	- [Thunderbolt 3](#Thunderbolt-3)
+	- [Thunderbolt 3](#Thunderbolt-3-Connectivity)
 	- [USB Type-C](#USB-Type-C-Connectivity)
+	- [5K & Ultrawide](#5K--UltraWide-Monitors)
 - [Desktop Computers & Workstations](#Desktop-Computers--Workstations)
 	- [Apple Mac mini](#Apple-Mac-mini)
 		- [Summary](#Summary)
@@ -24,7 +25,8 @@
 ### USB Type-C Connectivity
 - [Dell U3219Q 32" Ultrasharp LED Monitor](https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) - $ 899
 
-### UltraWide Monitors
+### 5K & UltraWide Monitors
+- [LG UltraFine 5K Display](https://www.apple.com/shop/product/HMUB2LL/A/lg-ultrafine-5k-display)
 - [LG 34WK95U-W 34" 21:9 UltraWide 5K2K Nano IPS Monitor](https://www.bhphotovideo.com/c/product/1382968-REG/lg_34wk95u_34_nano_ips.html/DFF/d10-v2-t1-xLG34WK95U) - $ 1299
 	- **Supports Thunderbolt 3**
 
