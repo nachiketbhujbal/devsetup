@@ -91,16 +91,11 @@ Displays are listed in descending order by resolution, connectivity, and size in
 ## 2K QHD Monitors
 **Resolution: 2560 x 1440**
 
-
-
-
-
-
 # Desktop Computers & Workstations
 
 ## Small Form Factor
 
-#### [Apple Mac mini](https://www.apple.com/mac-mini/specs/)
+#### [Apple Mac mini](https://shorturl.at/gtyQS)
 Specification       | Base Model Specs      | Recommended Specs    | Maxed Out Specs
 ------------------- | --------------------- | -------------------- | ----------------------
 Processor           | Intel i5<sup>1</sup>  | Intel i7<sup>2</sup> | Intel i7<sup>2</sup>
@@ -117,9 +112,9 @@ Software & Warranty | None                  | AppleCare+           | Everything<
 * <sup>2</sup>: 6-core 3.2 GHz 8th Gen "Coffee Lake" Intel i7 w/ Turbo Boost up to 4.6 GHz
 * <sup>3</sup>: Final Cut Pro X, Logic Pro X, & AppleCare+
 
+# Hardware Upgrades
 
-
-### Upgradeable RAM (purchased separately later)
+## Upgradeable RAM (purchased separately later)
 
 Company\Size | 1x8 GB | 1x16 GB | 2x16 GB | 1x32 GB | 2x32 GB
 ------------ | ------ | ------  | ------- | ------- | ------- 
@@ -127,34 +122,34 @@ Crucial      | $ 34   | $ 62    | $ 124   | $ 158   | $ 319
 OWC          | $ 40   | $ 75    | $ 145   | $ 175   | $ 339
 Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 
+> Find the ram above via search on Amazon
 
 ## External Storage
 
 External storage can be broken down into mainly two categories:
-    
     - Hard-Disk Drives (HDD): Great for fast read/write speeds.
     - Solid-State Drives (SSD): Long-term storage, backups, & redundancy (RAID)
 
 > Thunderbolt 3 NVMe M.2 SSD & Enclosures
-- [Fledgling Shell Thunder SSD Enclosure](https://www.amazon.com/gp/product/B07QY9V2KM/ref=ox_sc_act_title_2?smid=A3MJNIGJ08V121&psc=1) - $ 140
+- [Fledgling Shell Thunder SSD Enclosure](https://shorturl.at/epOS6) - $ 140
 
-- [Sabrent 2TB Rocket NVMe PCIe M.2 2280 Internal SSD](https://www.amazon.com/dp/B07MTQTNVR/ref=twister_B085GG5QDR?_encoding=UTF8&th=1) - $ 280
+- [Sabrent 2TB Rocket NVMe PCIe M.2 2280 Internal SSD](https://shorturl.at/ajAT8) - $ 280
 
 > USC Type-C SSD
-- [Samsung T5 Portable SSD](https://www.amazon.com/Samsung-T5-Portable-SSD-MU-PA2T0B/dp/B073H4GPLQ/ref=sr_1_4?dchild=1&keywords=samsung+thunderbolt+3+ssd&qid=1590624310&s=electronics&sr=1-4) - $ 320
+- [Samsung T5 Portable SSD](https://shorturl.at/dmqs4) - $ 320
 
-- [G-Technology 2TB G-DRIVE mobile SSD](https://www.amazon.com/G-Technology-0G06054-G-Drive-Portable-Storage/dp/B0765LJWFZ/ref=sr_1_2?dchild=1&keywords=G-Technology-0G06054-G-Drive-Portable-Storage&qid=1590624942&sr=8-2) - $ 330
+- [G-Technology 2TB G-DRIVE mobile SSD](https://shorturl.at/cfPQ9) - $ 330
 
 ## Accessories
 
-- [Satechi Data Hub for Mac mini](https://satechi.net/products/type-c-aluminum-stand-hub-for-mac-mini) - $ 80
-- [Logitech MX Master 3](https://www.logitech.com/en-us/product/mx-master-3) - $ 100
-- [Logitech MX Keys](https://www.logitech.com/en-us/product/mx-keys-wireless-keyboard) - $ 100
-- [Wood Monitor Stand with Docking Station](https://en.j5create.com/collections/monitor-stands/products/jct425) - $ 140
+- [Satechi Data Hub for Mac mini](https://shorturl.at/IOX05) - $ 80
+- [Logitech MX Master 3](https://shorturl.at/mnpyA) - $ 100
+- [Logitech MX Keys](https://shorturl.at/cdjq8) - $ 100
+- [Wood Monitor Stand with Docking Station](https://shorturl.at/eltG5) - $ 140
 
 ## External GPU (eGPU)
 
-- [Black Magic eGPU](https://www.apple.com/shop/product/HM8Y2VC/A/blackmagic-egpu) - $ 699
-- [PowerColor Mini Pro](https://www.amazon.com/PowerColor-Mini-RX570-eGPU-Thunderbolt3/dp/B07Q4R7GZR) - $ 475
+- [Black Magic eGPU](https://shorturl.at/ipBKN) - $ 699
+- [PowerColor Mini Pro](https://shorturl.at/jknzJ) - $ 475
 
 
