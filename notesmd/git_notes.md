@@ -1,5 +1,5 @@
 # Git Notes
-##### Helpful notes and CLI tricks for me to remember for git
+### Helpful notes and CLI tricks for me to remember for git
 
 ## Branches
 
