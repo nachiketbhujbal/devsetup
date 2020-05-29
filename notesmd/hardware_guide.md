@@ -20,7 +20,7 @@
 - [Lenovo ThinkVision P32u-10 32" 4K UHD Adobe RGB](https://www.lenovo.com/us/en/accessories-and-monitors/P32u) - $ 1499 ---> **ON SALE RIGHT NOW: $ 944**
 - [BenQ DesignVue Designer PD3230U 32" 4K UHD](https://www.benq.com/en-us/monitor/designer/pd3220u.html) - $ 1199
 	- Has built-in KVM Switch
-- [ASUS ProArt PA32UC 32" 4K UHD Adobe RGB](https://www.asus.com/us/Monitors/ProArt-PA32UC/)
+- [ASUS ProArt PA32UC 32" 4K UHD Adobe RGB](https://www.asus.com/us/Monitors/ProArt-PA32UC/) - $ 1399
 
 ### USB Type-C Connectivity
 - [Dell Ultrasharp U3219Q 32" 4K UHD LED Monitor](https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-4k-usb-c-monitor-u3219q/apd/210-aqzz/monitors-monitor-accessories) - $ 899
