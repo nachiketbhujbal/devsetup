@@ -45,17 +45,17 @@
 #### [Apple Mac mini](https://www.apple.com/mac-mini/specs/)
 
 ##### Summary
-Specification     | Base Model | Recommended | Maxed Out
------------------ | ---------- | ----------- | ---------
-Processor		  |	Intel i5<sup>1</sup> | Intel i7<sup>2</sup> | Intel i7<sup>2</sup>
-Internal RAM	  |	8 GB       | 8 GB        | 64 GB	
-Internal SSD 	  |	512 GB     | 512 GB      | 2 TB 
-Graphics 		  |	Intel UHD  | Intel UHD   | Intel UHD
-Networking 		  | 1 Gigabit  | 10 Gigabit  | 10 Gigabit
-Software & Warranty | None     | AppleCare+  | Final Cut Pro X, Logic Pro X, and AppleCare+
------------------ | ---------- | ----------- | ---------
-*Upgrades Cost*   | *+ $0*     | *+ $399*    | *+ $2498*
-**TOTAL COST**    |**$1099.00**|**$1498.00** |**$3597.00**
+Specification | Base Model | Recommended | Maxed Out
+------------- | ---------- | ----------- | ---------
+Processor |	Intel i5<sup>1</sup> | Intel i7<sup>2</sup> | Intel i7<sup>2</sup>
+Internal RAM | 8 GB | 8 GB | 64 GB
+Internal SSD | 512 GB | 512 GB | 2 TB 
+Graphics | Intel UHD | Intel UHD | Intel UHD
+Networking | 1 Gigabit | 10 Gigabit | 10 Gigabit
+Software & Warranty | None | AppleCare+ | Final Cut Pro X, Logic Pro X, and AppleCare+
+------------------- | ---------- | ----------- | ---------
+*Upgrades Cost* | *+ $0* | *+ $399* | *+ $2498*
+**TOTAL COST** | **$1099.00** | **$1498.00** | **$3597.00**
 
 * i5<sup>1</sup>: 6-core 3.0 GHz 8th Gen "Coffee Lake" Intel i5 w/ Turbo Boost up to 4.1 GHz
 * i7<sup>2</sup>: 6-core 3.2 GHz 8th Gen "Coffee Lake" Intel i7 w/ Turbo Boost up to 4.6 GHz
