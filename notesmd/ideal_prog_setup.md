@@ -1,6 +1,6 @@
 # Ideal Programming Setup (as of May 2020)
 
-### Machine: [2020 Mac mini]()
+### Machine: [Apple Mac mini - 2020](https://www.apple.com/mac-mini/specs/)
 > Total Cost (w/upgrades): *__$ 1498.00__*
 - 6-core 3.2 GHz Intel i7 w/ Turbo Boost to 4.6 GHz
 - 512 GB PCIe SSD

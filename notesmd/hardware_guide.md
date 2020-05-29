@@ -103,7 +103,7 @@ Displays are listed in descending order by resolution, connectivity, and size in
 
 ## Small Form Factor
 
-#### [Apple Mac mini]()
+#### [Apple Mac mini](https://www.apple.com/mac-mini/specs/)
 Specification       | Base Model Specs      | Recommended Specs    | Maxed Out Specs
 ------------------- | --------------------- | -------------------- | ----------------------
 Processor           | Intel i5<sup>1</sup>  | Intel i7<sup>2</sup> | Intel i7<sup>2</sup>
