@@ -2,31 +2,35 @@
 
 # Contents
 
-- [Televisions, Displays, & Monitors](#televisions-displays--monitors)
-	- [4K UHD (3840 x 2160) Monitors](#4k-uhd-3840-x-2160-monitors)
-		- [Thunderbolt 3](#thunderbolt-3)
-			- [32" Inch](#32-inch)
-			- [27" Inch](#27-inch)
-		- [USB Type-C](#usb-type-c)
-			- [32" Inch](#32-inch-1)
-		- [HDMI 2.0 & Displayport](#hdmi-20--displayport)
+- [Televisions, Displays, & Monitors](#)
+	- [2K QHD Monitors](#)
 
-	- [5K & Ultrawide & Curved](#5k-ultrawide--curved-monitors)
-		- [Thunderbolt 3](#thunderbolt-3-1)
+	- [4K UHD Monitors]
+		- [Thunderbolt 3](#)
+			- [32" Inch](#)
+			- [27" Inch](#)
+		- [USB Type-C](#)
+			- [32" Inch](#)
+		- [HDMI 2.0 & Displayport](#)
 
-	- [2K QHD (2560 x 1440) Monitors](#2k-qhd-2560-x-1440)
+	- [5K & Ultrawide & Curved](#)
+		- [Thunderbolt 3](#)
 
-- [Desktop Computers & Workstations](#Desktop-Computers--Workstations)
-	- [Apple Mac mini](#Apple-Mac-mini)
+
+- [Desktop Computers & Workstations](#)
+	- [Apple Mac mini](#)
 
 # Televisions | Displays & Monitors
 
 Displays are sorted in order by resolution, connectivity, and size in inches.  
 
-## 2K QHD (2560 x 1440)
+## 2K QHD Monitors
+**Resolution: 2560 x 1440**
 
-## 4K UHD (3840 x 2160) Monitors
+## 4K UHD Monitors
+> **Resolution: 3840 x 2160**
 ### Thunderbolt 3
+> **Speeds up to 40 Gbps**
 #### 27 inch
 - [Dell Ultrasharp U2720Q 27"](https://shorturl.at/CLNPV) - $580
 - [LG HDR10 27UK850-W 27”](shorturl.at/emoI4) - $ 449
@@ -39,9 +43,12 @@ Displays are sorted in order by resolution, connectivity, and size in inches.
 - [ASUS ProArt PA32UC 32"](https://shorturl.at/xZ149) - $ 1399
 - [Lenovo ThinkVision P32u-10 32"](https://shorturl.at/ikpS5) - $ 1499
 	- **ON SALE RIGHT NOW: $ 944**
-	
+
 ### USB Type-C
-- [Dell Ultrasharp U3219Q 32"](https://https://shorturl.at/aku58) - $ 899
+> **Speeds up to 10 Gbps**
+
+#### 32+ inch
+- [Dell Ultrasharp U3219Q 32"](https://shorturl.at/aku58) - $ 899
 	- Built-in KVM Switch
 
 ### HDMI 2.0 & DisplayPort
@@ -49,8 +56,8 @@ Displays are sorted in order by resolution, connectivity, and size in inches.
 	- Built-in KVM Switch
 
 ## 5K+ | Ultrawide | Curved
-
 ### Thunderbolt 3
+> **Speeds up to 40 Gbps**
 
 #### 27 inch
 - [LG UltraFine 5K Display 27"](https://shorturl.at/ruyIT) - $ 1299
