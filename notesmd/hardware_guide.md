@@ -53,7 +53,7 @@ Internal SSD | 512 GB | 512 GB | 2 TB
 Graphics | Intel UHD | Intel UHD | Intel UHD
 Networking | 1 Gigabit | 10 Gigabit | 10 Gigabit
 Software & Warranty | None | AppleCare+ | Final Cut Pro X, Logic Pro X, and AppleCare+
-------------------- | ---------- | ----------- | ---------
+------------------- | ---------- | ----------- | --------------------------------
 *Upgrades Cost* | *+ $0* | *+ $399* | *+ $2498*
 **TOTAL COST** | **$1099.00** | **$1498.00** | **$3597.00**
 
