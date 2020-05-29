@@ -76,6 +76,7 @@ Displays are listed in descending order by resolution, connectivity, and size in
 - [LG HDR10 27UK850-W 27”](https://shorturl.at/emoI4) - $ 449
 - [LG VESA DisplayHDR-400 27UL850-W 27"](https://shorturl.at/iuHL5) - $ 549
 - [HP Z27 4K UHD Monitor 27"](https://shorturl.at/bnu46) - $ 510
+- [HP Envy Micro-Edge Bezel 4K UHD 27"](https://shorturl.at/bgy49)
 
 ### USB Type-C
 > **Speeds up to 10 Gbps**
