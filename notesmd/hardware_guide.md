@@ -47,13 +47,16 @@
 ##### Summary
 Specification     | Base Model | Recommended | Maxed Out
 ----------------- | ---------- | ----------- | ---------
-Processor		  |	6-core 3.0 GHz 8th Gen "Coffee Lake" Intel i5 w/ Turbo Boost up to 4.1 GHz | 6-core 3.2 GHz 8th Gen "Coffee Lake" Intel i7 w/ Turbo Boost up to 4.6 GHz | 6-core 3.2 GHz 8th Gen "Coffee Lake" Intel i7 w/ Turbo Boost up to 4.6 GHz
+Processor		  |	Intel i5<sup>1</sup> | Intel i7<sup>2</sup> | Intel i7<sup>2</sup>
 Internal RAM	  |	8 GB       | 8 GB        | 64 GB	
 Internal SSD 	  |	512 GB     | 512 GB      | 2 TB 
 Graphics 		  |	Intel UHD  | Intel UHD   | Intel UHD
 Networking 		  | 1 Gigabit  | 10 Gigabit  | 10 Gigabit 
 ----------------- | ---------- | ----------- | ---------
 **TOTAL COST**    |**$1099.00**|**$1498.00** |**$3597.00**
+
+<sup>0</sup> - 6-core 3.0 GHz 8th Gen "Coffee Lake" Intel i5 w/ Turbo Boost up to 4.1 GHz
+<sup>1</sup> - 6-core 3.2 GHz 8th Gen "Coffee Lake" Intel i7 w/ Turbo Boost up to 4.6 GHz
 
 ##### CPU
 Specification     | Base Model | Recommended | Maxed Out
