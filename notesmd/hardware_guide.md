@@ -3,9 +3,13 @@
 # Contents
 
 - [Televisions, Displays, & Monitors](#televisions-displays--monitors)
-	- [Thunderbolt 3](#thunderbolt-3)
-	- [USB Type-C](#USB-Type-C-Connectivity)
+	- [4K UHD (3840 x 2160) Monitors](#4k-uhd-3840-x-2160-monitors)
+		> hierarchical ordering
+		- [Thunderbolt 3](#thunderbolt-3)
+		- [USB Type-C](#USB-Type-C-Connectivity)
+		- [HDMI 2.0 & Displayport](#hdmi-20--displayport)
 	- [5K & Ultrawide](#5K--UltraWide-Monitors)
+	- [2K QHD (2560 x 1440) Monitors]()
 - [Desktop Computers & Workstations](#Desktop-Computers--Workstations)
 	- [Apple Mac mini](#Apple-Mac-mini)
 		- [Summary](#Summary)
