@@ -1,10 +1,17 @@
 # Personal Hardware Guide
 
 ## Contents
+	
+	-[Desktop Computers & Workstations](#Desktop-Computers-&-Workstations)
+	
 
 ## Desktop Computers & Workstations
 ### [Apple Mac mini](https://www.apple.com/mac-mini/)
+Specification     | Base Model | Recommended | Maxed Out
+----------------- | ---------- | ----------- | ---------
+**TOTAL COST**    |**$1099.00**|**$1498.00** |**$3597.00**
 
+##### CPU
 Specification     | Base Model | Recommended | Maxed Out
 ----------------- | ---------- | ----------- | ---------
 Clock Freq        | 3.0 GHz    | 3.2 GHz     | 3.2 GHz
@@ -15,26 +22,34 @@ Processor         | Intel i5   | Intel i7    | Intel i7
 Turbo Boost       | 4.1 GHz    | 4.6 GHz     | 4.6 GHz
 **CPU COST**      | + $0       | + $200      | + $200
 ----------------- | ---------- | ----------- | -----------
+
+##### Memory & Storage
+Specification     | Base Model | Recommended | Maxed Out
+----------------- | ---------- | ----------- | ---------
 Internal SSD      | 512 GB     | 512 GB      | 2TB
 **SSD COST**      | + $0       | + $0        | + $600
 ----------------- | ---------- | ----------- | -----------
 Internal RAM      | 8 GB       | 8 GB        | 64 GB
 **RAM COST**      | + $0       | + $0        | + $1000
 ----------------- | ---------- | ----------- | -----------
+
+##### Graphics & Connectivity
 Graphics Card     | Intel UHD  | Intel UHD   | Intel UHD
 **GPU COST**      | + $0       | + $0        | + $0
 ----------------- | ---------- | ----------- | -----------
 Ethernet Card     | Gigabit    | 10 Gigabit  | 10 Gigabit
 **ETH COST**      | + $0       | + $100      | + $100
 ----------------- | ---------- | ----------- | -----------
+
+##### Additional Software & Warranty
+Specification     | Base Model | Recommended | Maxed Out
+----------------- | ---------- | ----------- | ---------
 Final Cut Pro X   | + $0       | + $0        | + $299
 Logic Pro X       | + $0       | + $0        | + $199
 **SOFTWARE COST** | + $0       | + $0        | + $498
 ----------------- | ---------- | ----------- | -----------
 Warranty          | Apple 1-Yr | AppleCare+  | AppleCare+
 **WARRANTY COST** | + $0       | + $99       | + $99
------------------ | ---------- | ----------- | -----------
-**TOTAL COST**    |**$1099.00**|**$1498.00** |**$3597.00**
 
 ### Upgradeable RAM (purchased separately later)
 
