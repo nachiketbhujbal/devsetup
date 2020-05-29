@@ -13,29 +13,26 @@
 
 - [Desktop Computers & Workstations](#Desktop-Computers--Workstations)
 	- [Apple Mac mini](#Apple-Mac-mini)
-		- [Summary](#Summary)
-		- [CPU](#CPU)
-		- [Memory & Storage](#Memory--Storage)
-		- [Graphics & Networking](#Graphics--Networking)
-		- [Additional Software & Warranty](#Additional-Software--Warranty)
 
 # Televisions, Displays, & Monitors
 
 ## 4K UHD (3840 x 2160) Monitors
 
 ### Thunderbolt 3
-- [BenQ DesignVue Designer PD3220U 32" 4K UHD](shorturl.at/mpDE2) - $ 1199
+- [BenQ DesignVue Designer PD3220U 32"](shorturl.at/mpDE2) - $ 1199
 	- Has built-in KVM Switch
-- [ASUS ProArt PA32UC 32" 4K UHD Adobe RGB](https://shorturl.at/xZ149) - $ 1399
-- [Lenovo ThinkVision P32u-10 32" 4K UHD Adobe RGB](shorturl.at/ikpS5) - $ 1499
+- [ASUS ProArt PA32UC 32"](https://shorturl.at/xZ149) - $ 1399
+	- Adobe RGB
+- [Lenovo ThinkVision P32u-10 32"](shorturl.at/ikpS5) - $ 1499
+	- Adobe RGB
 	- **ON SALE RIGHT NOW: $ 944**
 
 ### USB Type-C
-- [Dell Ultrasharp U3219Q 32" 4K UHD](https://shorturl.at/aku58) - $ 899
+- [Dell Ultrasharp U3219Q 32"](https://shorturl.at/aku58) - $ 899
 	- Has built-in KVM Switch
 
 ### HDMI 2.0 & DisplayPort
-- [BenQ Designer PD3200U 32" 4K UHD](shorturl.at/anoFT) - $ 699
+- [BenQ Designer PD3200U 32"](shorturl.at/anoFT) - $ 699
 	- Has built-in KVM Switch
 
 ## 5K, UltraWide, & Curved Monitors
@@ -48,6 +45,11 @@
 ## 2K QHD (2560 x 1440)
 
 
+- [Dell Ultrasharp U2720Q 27" (2020)](https://www.dell.com/en-us/work/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-avjv/monitors-monitor-accessories) - $580
+
+- [LG 27” 27UK850-W LCD 4K Monitor w/ USB-C (2018)](https://www.amazon.com/gp/product/B078GVTD9N/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1) - $449
+
+- [HP Z27 4K UHD LED Monitor w/ USB-C](https://store.hp.com/us/en/pdp/hp-z27-27-inch-4k-uhd-display) - $510
 
 
 
@@ -58,8 +60,6 @@
 ## Small Form Factor
 
 #### [Apple Mac mini](https://www.apple.com/mac-mini/specs/)
-
-##### Summary
 Specification       | Base Model Specs      | Recommended Specs    | Maxed Out Specs
 ------------------- | --------------------- | -------------------- | ----------------------
 Processor           | Intel i5<sup>1</sup>  | Intel i7<sup>2</sup> | Intel i7<sup>2</sup>
@@ -87,17 +87,8 @@ OWC          | $ 40   | $ 75    | $ 145   | $ 175   | $ 339
 Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 
 
-
-
-#### 32+ inch 4K displays (3840 x 2160)
-
 #### 27 inch 4K displays (3840 x 2160)
 
-- [Dell 27" Ultrasharp LED Monitor - U2720Q (2020)](https://www.dell.com/en-us/work/shop/ultrasharp-27-4k-usb-c-monitor-u2720q/apd/210-avjv/monitors-monitor-accessories) - $580
-
-- [LG 27” 27UK850-W LCD 4K Monitor w/ USB-C (2018)](https://www.amazon.com/gp/product/B078GVTD9N/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1) - $449
-
-- [HP Z27 4K UHD LED Monitor w/ USB-C](https://store.hp.com/us/en/pdp/hp-z27-27-inch-4k-uhd-display) - $510
 
 
 ## External Storage
