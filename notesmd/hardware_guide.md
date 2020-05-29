@@ -7,6 +7,7 @@
 		- [CPU](#CPU)
 		- [Memory & Storage](#Memory--Storage)
 		- [Graphics & Networking](#Graphics--Networking)
+		- [Additional Software & Warranty](#Additional-Software--Warranty)
 
 
 ## Desktop Computers & Workstations
@@ -51,10 +52,11 @@ Specification     | Base Model | Recommended | Maxed Out
 ----------------- | ---------- | ----------- | ---------
 Final Cut Pro X   | + $0       | + $0        | + $299
 Logic Pro X       | + $0       | + $0        | + $199
-**SOFTWARE COST** | + $0       | + $0        | + $498
------------------ | ---------- | ----------- | -----------
 Warranty          | Apple 1-Yr | AppleCare+  | AppleCare+
+----------------- | ---------- | ----------- | -----------
+**SOFTWARE COST** | + $0       | + $0        | + $498
 **WARRANTY COST** | + $0       | + $99       | + $99
+
 
 ### Upgradeable RAM (purchased separately later)
 
