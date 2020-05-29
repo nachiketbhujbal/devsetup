@@ -1,4 +1,4 @@
-# Ideal Programming Setup
+# Ideal Programming Setup (as of May 2020)
 
 ### Machine: [2020 Mac mini](https://www.apple.com/mac-mini/)
 - 6-core 3.2 GHz Intel i7 w/ Turbo Boost to 4.6 GHz
