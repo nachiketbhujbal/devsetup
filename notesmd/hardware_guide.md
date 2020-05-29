@@ -3,9 +3,14 @@
 ## Contents
 	
 - [Desktop Computers & Workstations](#Desktop-Computers-&-Workstations)
+	- [Apple Mac mini](#Apple-Mac-mini)
+		- [CPU](#CPU)
+		- [Memory & Storage](#Memory-&-Storage)
+		- [Graphics & Networking](#Graphics-&-Networking)
 
 
 ## Desktop Computers & Workstations
+
 ### [Apple Mac mini](https://www.apple.com/mac-mini/)
 Specification     | Base Model | Recommended | Maxed Out
 ----------------- | ---------- | ----------- | ---------
@@ -20,26 +25,26 @@ Generation        | 8th        | 8th         | 8th
 Gen Nickname      | Coffee-Lake| Coffee-Lake | Coffee-Lake
 Processor         | Intel i5   | Intel i7    | Intel i7
 Turbo Boost       | 4.1 GHz    | 4.6 GHz     | 4.6 GHz
-**CPU COST**      | + $0       | + $200      | + $200
 ----------------- | ---------- | ----------- | -----------
+**CPU COST**      | + $0       | + $200      | + $200
 
 ##### Memory & Storage
 Specification     | Base Model | Recommended | Maxed Out
 ----------------- | ---------- | ----------- | ---------
 Internal SSD      | 512 GB     | 512 GB      | 2TB
-**SSD COST**      | + $0       | + $0        | + $600
------------------ | ---------- | ----------- | -----------
 Internal RAM      | 8 GB       | 8 GB        | 64 GB
+----------------- | ---------- | ----------- | -----------
+**SSD COST**      | + $0       | + $0        | + $600
 **RAM COST**      | + $0       | + $0        | + $1000
------------------ | ---------- | ----------- | -----------
 
-##### Graphics & Connectivity
+##### Graphics & Networking
+Specification     | Base Model | Recommended | Maxed Out
+----------------- | ---------- | ----------- | ---------
 Graphics Card     | Intel UHD  | Intel UHD   | Intel UHD
-**GPU COST**      | + $0       | + $0        | + $0
------------------ | ---------- | ----------- | -----------
 Ethernet Card     | Gigabit    | 10 Gigabit  | 10 Gigabit
-**ETH COST**      | + $0       | + $100      | + $100
 ----------------- | ---------- | ----------- | -----------
+**GPU COST**      | + $0       | + $0        | + $0
+**ETH COST**      | + $0       | + $100      | + $100
 
 ##### Additional Software & Warranty
 Specification     | Base Model | Recommended | Maxed Out
