@@ -51,7 +51,7 @@ Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 #### 32 inch 4K displays (3840 x 2160)
 - [ThinkVision P32u-10 32" 4K Adobe RGB Thunderbolt 3 Monitor](https://www.lenovo.com/us/en/accessories-and-monitors/P32u) - $ 1499
 
-- [BenQ 32 inch, 4K UHD Monitor, w/Thunderbolt 3 PD3230U](https://www.benq.com/en-us/monitor/designer/pd3220u.html)
+- [BenQ PD3230U 32 inch, 4K UHD Monitor, w/Thunderbolt 3](https://www.benq.com/en-us/monitor/designer/pd3220u.html)
 
 ### USB Type-C Connectivity Monitors
 #### 32 inch 4K displays (3840 x 2160) w/ USB Type-C
@@ -60,6 +60,7 @@ Samsung      | $ 36   | $ 74    | $ 148   | $ 137   | $ 275
 #### 32+ inch 4K displays (3840 x 2160)
 
 - [LG 34WK95U-W 34" 21:9 UltraWide 5K2K Nano IPS Monitor](https://www.bhphotovideo.com/c/product/1382968-REG/lg_34wk95u_34_nano_ips.html/DFF/d10-v2-t1-xLG34WK95U) - $ 1299
+	- **Supports Thunderbolt 3**
 
 - [BenQ 32 inch, 4K UHD Monitor, IPS Panel PD3200U](https://www.amazon.com/BenQ-PD3200U-Designer-3840x2160-DualView/dp/B01MY142C0/ref=sr_1_1?dchild=1&keywords=BenQ+PD3200U&qid=1590721090&sr=8-1)
 
