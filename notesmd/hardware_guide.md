@@ -3,27 +3,48 @@
 # Contents
 
 - [Televisions, Displays, & Monitors](#televisions--displays--monitors)
-	- [5K & Ultrawide & Curved](#)
-		- [Thunderbolt 3](#)
+	- [5K & Ultrawide & Curved](#5k--ultrawide--curved)
+		- [Thunderbolt 3](#thunderbolt-3)
+			- [32" Inch](#32-inch)
+			- [27" Inch](#27-inch)
+		<!-- - [USB Type-C](#usb-type-c) -->
+			<!-- - [32" Inch](#32-inch-1) -->
+			<!-- - [27" Inch](#27-inch-1) -->
+		<!-- - [HDMI 2.0 & Displayport](#hdmi-20--displayport) -->
+			<!-- - [32" Inch](#32-inch-2) -->
+			<!-- - [27" Inch](#27-inch-2) -->
 
 	- [4K UHD Monitors](#4k-uhd-monitors)
-		- [Thunderbolt 3](#thunderbolt-3)
-			- [27" Inch](#27-inch)
-			- [32" Inch](#)
-		- [USB Type-C](#)
-			- [32" Inch](#)
-		- [HDMI 2.0 & Displayport](#)
+		- [Thunderbolt 3](#thunderbolt-3-1)
+			- [32" Inch](#32-inch-3)
+			- [27" Inch](#27-inch-3)
+		- [USB Type-C](#usb-type-c-1)
+			- [32" Inch](#32-inch-4)
+			<!-- - [27" Inch](#27-inch-4) -->
+		- [HDMI 2.0 & Displayport](#hdmi-20--displayport-1)
+			- [32" Inch](#32-inch-5)
+			<!-- - [27" Inch](#27-inch-5) -->
 
 	- [2K QHD Monitors](#2k-qhd-monitors)
+		<!-- - [Thunderbolt 3](#thunderbolt-3-2) -->
+			<!-- - [32" Inch](#32-inch-6) -->
+			<!-- - [27" Inch](#27-inch-6) -->
+		<!-- - [USB Type-C](#usb-type-c-2) -->
+			<!-- - [32" Inch](#32-inch-7) -->
+			<!-- - [27" Inch](#27-inch-7) -->
+		<!-- - [HDMI 2.0 & Displayport](#hdmi-20--displayport-2) -->
+			<!-- - [32" Inch](#32-inch-8) -->
+			<!-- - [27" Inch](#27-inch-8) -->
 
 - [Desktop Computers & Workstations](#)
 	- [Apple Mac mini](#)
 
 # Televisions | Displays & Monitors
 
-Displays are sorted in descending order by resolution, connectivity, and size in inches.  
+Displays are listed in descending order by resolution, connectivity, and size in inches.  
 
 ## 5K+ | Ultrawide | Curved
+> Requires Thunderbolt 3 or USB Type-C
 ### Thunderbolt 3
 > **Speeds up to 40 Gbps**
 
@@ -39,11 +60,6 @@ Displays are sorted in descending order by resolution, connectivity, and size in
 > **Resolution: 3840 x 2160**
 ### Thunderbolt 3
 > **Speeds up to 40 Gbps**
-#### 27 inch
-- [Dell Ultrasharp U2720Q 27"](https://shorturl.at/CLNPV) - $580
-- [LG HDR10 27UK850-W 27”](shorturl.at/emoI4) - $ 449
-- [LG VESA DisplayHDR-400 27UL850-W 27"](https://shorturl.at/iuHL5) - $ 549
-- [HP Z27 4K UHD Monitor 27"](shorturl.at/bnu46) - $ 510
 
 #### 32+ inch
 - [BenQ DesignVue Designer PD3220U 32"](https://shorturl.at/mpDE2) - $ 1199
@@ -51,6 +67,12 @@ Displays are sorted in descending order by resolution, connectivity, and size in
 - [ASUS ProArt PA32UC 32"](https://shorturl.at/xZ149) - $ 1399
 - [Lenovo ThinkVision P32u-10 32"](https://shorturl.at/ikpS5) - $ 1499
 	- **ON SALE RIGHT NOW: $ 944**
+
+#### 27 inch
+- [Dell Ultrasharp U2720Q 27"](https://shorturl.at/CLNPV) - $580
+- [LG HDR10 27UK850-W 27”](shorturl.at/emoI4) - $ 449
+- [LG VESA DisplayHDR-400 27UL850-W 27"](https://shorturl.at/iuHL5) - $ 549
+- [HP Z27 4K UHD Monitor 27"](shorturl.at/bnu46) - $ 510
 
 ### USB Type-C
 > **Speeds up to 10 Gbps**
@@ -60,6 +82,8 @@ Displays are sorted in descending order by resolution, connectivity, and size in
 	- Built-in KVM Switch
 
 ### HDMI 2.0 & DisplayPort
+> Able to output 4K @ 60 Hz
+#### 32+ inch
 - [BenQ Designer PD3200U 32"](https://shorturl.at/anoFT) - $ 699
 	- Built-in KVM Switch
 
