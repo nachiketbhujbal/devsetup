@@ -55,8 +55,8 @@ Networking 		  | 1 Gigabit  | 10 Gigabit  | 10 Gigabit
 ----------------- | ---------- | ----------- | ---------
 **TOTAL COST**    |**$1099.00**|**$1498.00** |**$3597.00**
 
-* <sup>0</sup>: 6-core 3.0 GHz 8th Gen "Coffee Lake" Intel i5 w/ Turbo Boost up to 4.1 GHz
-* <sup>1</sup>: 6-core 3.2 GHz 8th Gen "Coffee Lake" Intel i7 w/ Turbo Boost up to 4.6 GHz
+* i5<sup>1</sup>: 6-core 3.0 GHz 8th Gen "Coffee Lake" Intel i5 w/ Turbo Boost up to 4.1 GHz
+* i7<sup>2</sup>: 6-core 3.2 GHz 8th Gen "Coffee Lake" Intel i7 w/ Turbo Boost up to 4.6 GHz
 
 ##### CPU
 Specification     | Base Model | Recommended | Maxed Out
