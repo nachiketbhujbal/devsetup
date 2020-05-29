@@ -38,7 +38,8 @@
 			- [27" Inch](#27-inch-8)
  -->
 
-- [Desktop Computers & Workstations](#)
+- [Desktop Computers & Workstations](#desktop-computers--workstations)
+    - [Small Form Factor](#small-form-factor)
 	- [Apple Mac mini](#)
 
 # Televisions | Displays & Monitors
@@ -51,11 +52,12 @@ Displays are listed in descending order by resolution, connectivity, and size in
 > **Speeds up to 40 Gbps**
 
 #### 32+ inch
-- [LG UltraWide 5K2K 34WK95U-W 34"](https://shorturl.at/sQSZ1) - $ 1299
+- [Dell UltraSharp UP3218K 32" 8K Monitor](https://tinyurl.com/yc7azl9j) - $ 4000
+- [LG UltraWide 5K2K 34WK95U-W 34"](https://tinyurl.com/ycfqfcwn) - $ 1299
 	- **5120 x 2160**
 
 #### 27 inch
-- [LG UltraFine 5K Display 27"](https://shorturl.at/ruyIT) - $ 1299
+- [LG UltraFine 5K Display 27"](https://tinyurl.com/yabqms6p) - $ 1299
 	- **5120 x 2880**
 
 ## 4K UHD Monitors
@@ -64,32 +66,33 @@ Displays are listed in descending order by resolution, connectivity, and size in
 > **Speeds up to 40 Gbps**
 
 #### 32+ inch
-- [BenQ DesignVue Designer PD3220U 32"](https://shorturl.at/mpDE2) - $ 1199
+- [BenQ DesignVue Designer PD3220U 32"](https://tinyurl.com/yadnu33e) - $ 1199
 	- Built-in KVM Switch
-- [ASUS ProArt PA32UC 32"](https://shorturl.at/xZ149) - $ 1399
-- [Lenovo ThinkVision P32u-10 32"](https://shorturl.at/ikpS5) - $ 1499
-	- **ON SALE RIGHT NOW: $ 944**
-- [ViewSonic VP3268-4K PRO 32"](https://shorturl.at/czO15)
+- [ASUS ProArt PA32UC 32"](https://tinyurl.com/ybdzuhkj) - $ 1399
+- [Lenovo ThinkVision P32u-10 32"](https://tinyurl.com/ycv4cokp) - $ 1499
+	- [**ON SALE RIGHT NOW: $ 944**](https://www.lenovo.com/us/en/accessories-and-monitors/P32u)
+- [ViewSonic VP3268-4K PRO 32"](https://tinyurl.com/y7o6b3rz)
+- [LG 32UL950-W 32" 16:9 4K UHD HDR FreeSync IPS Monitor](https://tinyurl.com/y9q8dyrc)
 
 #### 27 inch
-- [Dell Ultrasharp U2720Q 27"](https://shorturl.at/CLNPV) - $580
-- [LG HDR10 27UK850-W 27”](https://shorturl.at/emoI4) - $ 449
-- [LG VESA DisplayHDR-400 27UL850-W 27"](https://shorturl.at/iuHL5) - $ 549
-- [HP Z27 4K UHD Monitor 27"](https://shorturl.at/bnu46) - $ 510
-- [HP Envy Micro-Edge Bezel 4K UHD 27"](https://shorturl.at/bgy49) - $ 472
+- [Dell Ultrasharp U2720Q 27"](https://tinyurl.com/yc3tre47) - $580
+- [LG HDR10 27UK850-W 27”]() - $ 449
+- [LG VESA DisplayHDR-400 27UL850-W 27"]() - $ 549
+- [HP Z27 4K UHD Monitor 27"]() - $ 510
+- [HP Envy Micro-Edge Bezel 4K UHD 27"]() - $ 472
 
 ### USB Type-C
 > **Speeds up to 10 Gbps**
 
 #### 32+ inch
-- [Dell Ultrasharp U3219Q 32"](https://shorturl.at/aku58) - $ 899
+- [Dell Ultrasharp U3219Q 32"](https://tinyurl.com/ybf33dyz) - $ 899
 	- Built-in KVM Switch
 
 ### HDMI 2.0 & DisplayPort
 > Able to output 4K @ 60 Hz
 
 #### 32+ inch
-- [BenQ Designer PD3200U 32"](https://shorturl.at/anoFT) - $ 699
+- [BenQ Designer PD3200U 32"]() - $ 699
 	- Built-in KVM Switch
 <!--
 ## 2K QHD Monitors
@@ -100,7 +103,7 @@ Displays are listed in descending order by resolution, connectivity, and size in
 
 ## Small Form Factor
 
-#### [Apple Mac mini](https://shorturl.at/gtyQS)
+#### [Apple Mac mini]()
 Specification       | Base Model Specs      | Recommended Specs    | Maxed Out Specs
 ------------------- | --------------------- | -------------------- | ----------------------
 Processor           | Intel i5<sup>1</sup>  | Intel i7<sup>2</sup> | Intel i7<sup>2</sup>
@@ -136,26 +139,26 @@ External storage can be broken down into mainly two categories:
     - Solid-State Drives (SSD): Great for fast read/write speeds.
 
 > Thunderbolt 3 NVMe M.2 SSD & Enclosures
-- [Fledgling Shell Thunder SSD Enclosure](https://shorturl.at/epOS6) - $ 140
+- [Fledgling Shell Thunder SSD Enclosure]() - $ 140
 
-- [Sabrent 2TB Rocket NVMe PCIe M.2 2280 Internal SSD](https://shorturl.at/ajAT8) - $ 280
+- [Sabrent 2TB Rocket NVMe PCIe M.2 2280 Internal SSD]() - $ 280
 
 > USC Type-C SSD
-- [Samsung T5 Portable SSD](https://shorturl.at/dmqs4) - $ 320
+- [Samsung T5 Portable SSD]() - $ 320
 
-- [G-Technology 2TB G-DRIVE mobile SSD](https://shorturl.at/cfPQ9) - $ 330
+- [G-Technology 2TB G-DRIVE mobile SSD]() - $ 330
 
 ## External GPU (eGPU)
 
-- [Black Magic eGPU](https://shorturl.at/ipBKN) - $ 699
-- [PowerColor Mini Pro](https://shorturl.at/jknzJ) - $ 475
+- [Black Magic eGPU]() - $ 699
+- [PowerColor Mini Pro]() - $ 475
 
 # Accessories
 
-- [Satechi Data Hub for Mac mini](https://shorturl.at/IOX05) - $ 80
-- [Logitech MX Master 3](https://shorturl.at/mnpyA) - $ 100
-- [Logitech MX Keys](https://shorturl.at/cdjq8) - $ 100
-- [Wood Monitor Stand with Docking Station](https://shorturl.at/eltG5) - $ 140
-- [Magic Trackpad 2 - Space Gray](https://shorturl.at/eptC1) - $ 149
+- [Satechi Data Hub for Mac mini]() - $ 80
+- [Logitech MX Master 3]() - $ 100
+- [Logitech MX Keys]() - $ 100
+- [Wood Monitor Stand with Docking Station]() - $ 140
+- [Magic Trackpad 2 - Space Gray]() - $ 149
 
 
