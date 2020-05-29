@@ -2,30 +2,38 @@
 
 # Contents
 
-- [Televisions, Displays, & Monitors](#)
-	- [2K QHD Monitors](#)
-
-	- [4K UHD Monitors]
+- [Televisions, Displays, & Monitors](#televisions--displays--monitors)
+	- [5K & Ultrawide & Curved](#)
 		- [Thunderbolt 3](#)
+
+	- [4K UHD Monitors](#4k-uhd-monitors)
+		- [Thunderbolt 3](#thunderbolt-3)
+			- [27" Inch](#27-inch)
 			- [32" Inch](#)
-			- [27" Inch](#)
 		- [USB Type-C](#)
 			- [32" Inch](#)
 		- [HDMI 2.0 & Displayport](#)
 
-	- [5K & Ultrawide & Curved](#)
-		- [Thunderbolt 3](#)
-
+	- [2K QHD Monitors](#2k-qhd-monitors)
 
 - [Desktop Computers & Workstations](#)
 	- [Apple Mac mini](#)
 
 # Televisions | Displays & Monitors
 
-Displays are sorted in order by resolution, connectivity, and size in inches.  
+Displays are sorted in descending order by resolution, connectivity, and size in inches.  
 
-## 2K QHD Monitors
-**Resolution: 2560 x 1440**
+## 5K+ | Ultrawide | Curved
+### Thunderbolt 3
+> **Speeds up to 40 Gbps**
+
+#### 32+ inch
+- [LG UltraWide 5K2K 34WK95U-W 34"](https://shorturl.at/sQSZ1) - $ 1299
+	- **5120 x 2160**
+
+#### 27 inch
+- [LG UltraFine 5K Display 27"](https://shorturl.at/ruyIT) - $ 1299
+	- **5120 x 2880**
 
 ## 4K UHD Monitors
 > **Resolution: 3840 x 2160**
@@ -55,18 +63,8 @@ Displays are sorted in order by resolution, connectivity, and size in inches.
 - [BenQ Designer PD3200U 32"](https://shorturl.at/anoFT) - $ 699
 	- Built-in KVM Switch
 
-## 5K+ | Ultrawide | Curved
-### Thunderbolt 3
-> **Speeds up to 40 Gbps**
-
-#### 27 inch
-- [LG UltraFine 5K Display 27"](https://shorturl.at/ruyIT) - $ 1299
-	- **5120 x 2880**
-
-#### 32+ inch
-- [LG UltraWide 5K2K 34WK95U-W 34"](https://shorturl.at/sQSZ1) - $ 1299
-	- **5120 x 2160**
-
+## 2K QHD Monitors
+**Resolution: 2560 x 1440**
 
 
 
