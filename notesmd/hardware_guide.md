@@ -3,9 +3,7 @@
 # Contents
 
 - [Televisions, Displays, & Monitors](#televisions-displays--monitors)
-
 	- [4K UHD (3840 x 2160) Monitors](#4k-uhd-3840-x-2160-monitors)
-
 		- [Thunderbolt 3](#thunderbolt-3)
 		- [USB Type-C](#usb-type-c)
 		- [HDMI 2.0 & Displayport](#hdmi-20--displayport)
