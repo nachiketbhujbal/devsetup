@@ -20,7 +20,6 @@
 		- [Additional Software & Warranty](#Additional-Software--Warranty)
 
 # Televisions, Displays, & Monitors
-> Search for best prices between Amazon and B&H Photo & Video
 
 ## 4K UHD (3840 x 2160) Monitors
 
