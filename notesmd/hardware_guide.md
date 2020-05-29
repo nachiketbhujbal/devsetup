@@ -1,6 +1,6 @@
 ![Hardware Logo](./hardware_guide.png)
 
-## Contents
+# Contents
 
 - [Displays & Monitors](#Displays--Monitors)
 	- [Thunderbolt 3](#Thunderbolt-3-Connectivity)
@@ -14,7 +14,7 @@
 		- [Graphics & Networking](#Graphics--Networking)
 		- [Additional Software & Warranty](#Additional-Software--Warranty)
 
-## Displays & Monitors
+# Displays & Monitors
 > Search for best monitor prices between Amazon and B&H Photo & Video
 
 ### Thunderbolt 3 Connectivity
