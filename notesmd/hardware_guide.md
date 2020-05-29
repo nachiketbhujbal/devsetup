@@ -62,16 +62,6 @@ Software & Warranty | None                  | AppleCare+           | Everything<
 * <sup>3</sup>: Final Cut Pro X, Logic Pro X, & AppleCare+
 
 
-##### Additional Software & Warranty
-Specification     | Base Model | Recommended | Maxed Out
------------------ | ---------- | ----------- | ---------
-Final Cut Pro X   | + $0       | + $0        | + $299
-Logic Pro X       | + $0       | + $0        | + $199
-Warranty          | Apple 1-Yr | AppleCare+  | AppleCare+
------------------ | ---------- | ----------- | -----------
-**SOFTWARE COST** | + $0       | + $0        | + $498
-**WARRANTY COST** | + $0       | + $99       | + $99
-
 
 ### Upgradeable RAM (purchased separately later)
 
