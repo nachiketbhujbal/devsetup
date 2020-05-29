@@ -16,7 +16,7 @@
 ## Displays & Monitors
 
 ### Thunderbolt 3 Connectivity
-- [Lenovo ThinkVision P32u-10 32" 4K UHD Adobe RGB](https://www.lenovo.com/us/en/accessories-and-monitors/P32u) - $ 1499 ---> ** ON SALE RIGHT NOW: $ 944**
+- [Lenovo ThinkVision P32u-10 32" 4K UHD Adobe RGB](https://www.lenovo.com/us/en/accessories-and-monitors/P32u) - $ 1499 ---> **ON SALE RIGHT NOW: $ 944**
 - [BenQ DesignVue Designer PD3230U 32" 4K UHD](https://www.benq.com/en-us/monitor/designer/pd3220u.html) - $ 1199
 	- KVM Switch
 	- ICCSync
